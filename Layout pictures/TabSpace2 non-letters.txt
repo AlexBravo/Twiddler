@@ -8,8 +8,8 @@
 |        •|        •|
 |,  ent  .|•      pg|
 |←   ↑   →|ins hm up|
-| (   )  "|       pg|
-|-   ↓ esc|delend dn|
+| (   )cps|       pg|
+|-   ↓   "|delend dn|
 |---------|---------|
 |•        |•        |
 |    •    |        •|
@@ -25,10 +25,10 @@
 |F1  F2  F3  |
 | F10 F11 F12|
 |F4  F5  F6  |
-| ins cps num|
-|     lck lck|
+| ins     num|
 |F7  F8   F9 |
 |------------|
+ESC=LLLL
 
 
 Font size: 18  
