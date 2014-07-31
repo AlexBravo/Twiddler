@@ -29,7 +29,8 @@
 |[   ]   % |#   $   : |
 |---------------------|
 q=d+m z=u+y
-
-
+F1=NUM+1 
+Cmd+F1=NUM+ALT+1
+Shift+F1=SHIFT+1
 
 Font size: 18
