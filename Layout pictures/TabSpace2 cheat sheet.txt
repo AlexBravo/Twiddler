@@ -33,7 +33,9 @@
 |---------------------|
 q=d+m z=u+y
 
-Non-obvious MCCs:
-as=g+c ant=an+o ion=h+o
+Not obvious MCCs:
+as=a+c ant=an+o ion=o+h
+re=r+i nt=i+l
+
 
 Font size: 18
