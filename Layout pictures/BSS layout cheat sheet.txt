@@ -1,5 +1,5 @@
 |-----------|-----------|
-|           |     •     |
+|bsp     spc|     •     |
 | i   e   o | c   d   u |
 |  in  te or|  b   p   v|
 | n   t   r | f   l   w |
@@ -31,6 +31,7 @@
 | [   ]   % | #   $   : |
 |-----------------------|
 q=d+m z=u+y
+Del=Shift+Backspace
 
 Not obvious MCCs:
 as=a+c ant=an+o ion=o+h
