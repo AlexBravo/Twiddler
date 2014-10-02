@@ -34,8 +34,8 @@ q=d+m z=u+y
 Del=Shift+Backspace
 
 Not obvious MCCs:
-as=a+c ant=an+o ion=o+h
-re=r+h nt=i+l
+ant=an+o as=a+c ion=o+h
+nt=i+l re=r+h ti=h+i
 
 
 Font size: 18
