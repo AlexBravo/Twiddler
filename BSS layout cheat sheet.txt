@@ -35,7 +35,9 @@ Del=Shift+Backspace
 
 Not obvious MCCs:
 ant=an+o as=a+c ion=o+h
-nt=i+l re=r+h ti=h+i
+ng=e+g nt=i+l ou=o+l
+re=r+h ti=h+i
+
 
 
 Font size: 18
