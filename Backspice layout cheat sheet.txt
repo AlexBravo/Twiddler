@@ -1,5 +1,5 @@
 |------------|------------|
-|bspc I  spc |     •      |
+|bsp  I  spc |     •      |
 | i   e   o  | c   d   u  |
 |  in  te  or|  b   p   v |
 | n   t   r  | f   l   w  |
