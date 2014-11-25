@@ -1,5 +1,5 @@
 |------------|------------|
-|bsp     spc |     •      |
+|bspc I  spc |     •      |
 | i   e   o  | c   d   u  |
 |  in  te  or|  b   p   v |
 | n   t   r  | f   l   w  |
@@ -30,15 +30,15 @@
 |            |            |
 | [   ]   %  |cps  |   ^  |
 |-------------------------|
-q=d+m z=u+y
-Del=Shift+Backspace
+ q=dm z=uy
+ del=Shift+Backspace
 
-Not obvious MCCs:
-ant=ano  as=ac    et=eta 
-gh=ds    ha=hn    ion=oh
-ng=eg    nt=il    ou=ol
-ow=oth   re=rh    se=sl
-ti=hi    with=ith
+ Not obvious MCCs:
+ ant=ano  as=ac    et=eta 
+ gh=ds    ha=hn    ion=oh
+ ng=eg    nt=il    ou=ol
+ ow=oth   re=rh    se=sl
+ ti=hi    with=ith
 
-
+---------------------------
 Font size: 18
