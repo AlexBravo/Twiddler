@@ -34,11 +34,19 @@
  del=Shift+Backspace
 
  Not obvious MCCs:
- ant=ano  as=ac    et=eta 
- gh=ds    ha=hn    ion=oh
- ng=eg    nt=il    ou=ol
- ow=oth   re=rh    se=sl
- ti=hi    with=ith
+ and=ane  ant=ano  as=ac
+ ed=rd    et=eta   ex=esh
+ for=hor  gh=ds    ha=hn
+ ing=ina  ion=oh   ng=eg
+ nt=il    ou=ol    ow=oth
+ qu=hu    re=rh    se=sl
+ sh=sr    ti=hi    you=sor
+ with=ith
+
+ 'd=SHIFT+rd 'll=SHIFT+ol
+ 'm=SHIFT+en 're=SHIFT+re
+ 's=SHIFT+is 't=SHIFT+nt
+ 've=SHIFT+hn
 
 ---------------------------
 Font size: 18
