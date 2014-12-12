@@ -43,10 +43,8 @@
  sh=sr    ti=hi    you=sor
  with=ith
 
- 'd=SHIFT+rd 'll=SHIFT+ol
- 'm=SHIFT+en 're=SHIFT+re
- 's=SHIFT+is 't=SHIFT+nt
- 've=SHIFT+hn
+ 'd=ald 'll=wi 'm=inm 're=yre
+ 's=isr 't=mot 've=hv
 
 ---------------------------
 Font size: 18
