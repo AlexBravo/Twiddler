@@ -43,8 +43,9 @@
  sh=sr    ti=hi    you=sor
  with=ith
 
- 'd=ald 'll=wi 'm=inm 're=yre
- 's=isr 't=mot 've=hv
+ 'd=ald  'll=wi 'm=nm
+ 're=yre 's=isr 't=mot
+ 've=hv
 
 ---------------------------
 Font size: 18
