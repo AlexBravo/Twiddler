@@ -1,50 +1,48 @@
-|------------|------------|
-|bsp  I  spc |     •      |
-| i   e   o  | c   d   u  |
-|  in  te  or|  b   p   v |
-| n   t   r  | f   l   w  |
-|  an  th  sh|  j   k   x |
-| a   h   s  | g   m   y  |
-|------------|------------|
-| •          |         •  |
-| 1   2   3  | ,  ent  .  |
-| 4   5   6  | ←   ↑   →  |
-|  <   >   ' |  (   )   - |
-| 7   8   9  |esc  ↓   "  |
-|------------|------------|
-| •          |         •  |
-| •          |         •  |
-| 0  cpy pst | !   ?   ;  |
-|  F1  F2  F3|  F7  F8  F9|
-|udo cut rdo | #   $   :  |
-|------------|------------|
-| •          |         •  |
-|     •      |     •      |
-| /   @   \  |hom pup end |
-|  F4  F5 F6 | F10 F11 F12|
-| {   }   _  |ins pdn tab |
-|------------|------------|
-| •          |         •  |
-|         •  | •          |
-| *   +   =  | `   &   ~  |
-|            |            |
-| [   ]   %  |cps  |   ^  |
-|-------------------------|
- q=dm z=uy
- del=Shift+Backspace
+|--------------|--------------|--------------|
+| •            |      •       |           •  |
+| 1    2    3  | c    d    u  | ,   ENT   .  |
+| 4    5    6  | f    l    w  | ←    ↑    →  |
+|  <    >    ' |  j    k    x |  (    )    - |
+| 7    8    9  | g    m    y  |ESC   ↓    "  |
+|--------------|--------------|--------------|
+| •            |      •       |           •  |
+| •            | •            |           •  |
+| 0   CPY  PST | b    nt   'll| !    ?    ;  |
+|  F1   F2   F3|  but  ck   ri|  F7   F8   F9|
+|UDO  CUT  RDO | as   ch   be | #    $    :  |
+|--------------|--------------|--------------|
+| •            |      •       |           •  |
+|      •       |      •       |      •       |
+| /    @    \  | nd   p    ed |HOM  PUP  END |
+|  F4   F5   F6|  this ph  was|  F10  F11 F12|
+| {    }    _  | ng   q    by |INS  PDN  TAB |
+|--------------|--------------|--------------|
+| •            |      •       |           •  |
+|           •  |           •  | •            |
+| *    +    =  | of   ou   v  | `    &    ~  |
+|              |  not  n't his|              |
+| [    ]    %  | le   qu   z  |CPS   |    ^  |
+|--------------|--------------|--------------|
+
+No index finger button:
+|--------------|--------------|--------------|
+|              |              |              |
+| •            |      •       |           •  |
+| in   it   ve | n    te   er | on  to   or  |
+|  ing  with 's|  and  the  ex|  ant ow   you|   
+| ai   ti   is | ea   he   es | oa  ion  so  |
+|--------------|--------------|--------------|
+|              |              |              |
+|      ea   oa |          ion |      es      |
+|       et   ro| ra        for|       se     | 
+| an   at   ar | re   th  ha  |      st   sa |
+| •            |      •       |           •  |
+|--------------|--------------|--------------|
+ DEL=Shift+Backspace
 
  Not obvious MCCs:
- and=ane  ant=ano as=ac
- be=bh    but=ba  ed=rd
- et=eta   ex=esh  for=hor
- from=rom gh=ds   ha=hn
- ing=ina  ion=oh  ng=eg
- not=nog  nt=il   ou=ol
- ow=oth   qu=hu   re=rh
- se=sl    sh=sr   ti=hi
- you=sor  was=wes with=ith
-
- 'll=wi   's=isr  n't=mot
+ ant=ano  as=ac   but=ba   
+ from=rom 's=isr  that=pa
 
 ---------------------------
 Font size: 18
