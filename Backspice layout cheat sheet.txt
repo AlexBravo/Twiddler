@@ -12,8 +12,8 @@
 | •            | •            |           •  |
 |              |              |              |
 | 0   CPY  PST | b    nt   'll| !    ?    ;  |
-|  F1   F2   F3|  but  ck   ri|  F7   F8   F9|
-|UDO  CUT  RDO | as   ch   be | #    $    :  |
+|  F1   F2   F3|  but  ck   co|  F7   F8   F9|
+|UDO  CUT  RDO | ai   ch   be | #    $    :  |
 |--------------|--------------|--------------|
 | •            |      •       |           •  |
 |              |              |              |
@@ -29,7 +29,7 @@
 |              |              |              |
 | *    +    =  | of   ou   v  | `    &    ~  |
 |              |  not  n't his|              |
-| [    ]    %  | le   qu   z  |CPS   |    ^  |
+| [    ]    %  |      qu   z  |CPS   |    ^  |
 |--------------|--------------|--------------|
 
 No index finger button:
@@ -38,23 +38,27 @@ No index finger button:
 |              |              |              |
 | •            |      •       |           •  |
 |              |              |              |
-| in   it   ve | n    te   er | on  to   or  |
-|  ing  with 's|  and  the  ex|  ant ow   you|   
-| ai   ti   is | ea   he   es | oa  ion  so  |
+| in   ti   ri | en   te   er | on  to   or  |
+|  ing  it   's|  and  the  ex|  ant ow   you|   
+| ai   hi   is | ea   he   es | oa  ion  so  |
 |--------------|--------------|--------------|
 |              |              |              |
 |              |              |              |
 |      ea   oa |          ion |      es      |
-|       et   ro| ra        for|       se     | 
-| an   at   ar | re   th  ha  |      st   sa |
+|       et   ro|           for|       se     | 
+| an   at   ar | ha   th      |      st   sh |
 |              |              |              |
 | •            |      •       |           •  |
 |--------------|--------------|--------------|
  DEL=Shift+Backspace
 
  Not obvious MCCs:
- ant=ano  as=ac   but=ba   
- from=rom 's=isr  that=pa
+ ant=ano  as=ac    but=ba
+ de=dra   from=rom le=les
+ me=mer   ne=nea   re=reh
+ 's=isr   se=set   that=pa
+ with=wih
 
 ---------------------------
 Font size: 18
+
