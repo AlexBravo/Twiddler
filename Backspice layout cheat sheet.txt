@@ -11,7 +11,7 @@
 |              |              |              |
 | •            | •            |           •  |
 |              |              |              |
-| 0   CPY  PST | b    nt   'll| !    ?    ;  |
+| 0   CPY  PST | b    nt  with| !    ?    ;  |
 |  F1   F2   F3|  but  ck   co|  F7   F8   F9|
 |UDO  CUT  RDO | ai   ch   be | #    $    :  |
 |--------------|--------------|--------------|
@@ -56,8 +56,8 @@ No index finger button:
  ant=ano  as=ac    but=ba
  de=dra   from=rom le=les
  me=mer   ne=nea   re=reh
- 's=isr   se=set   that=pa
- with=wih
+ se=set   that=pa
+ 'll=yl   's=isr
 
 ---------------------------
 Font size: 18
