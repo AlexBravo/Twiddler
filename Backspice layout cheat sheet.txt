@@ -21,15 +21,15 @@
 |              |              |              |
 | /    @    \  | nd   p    ed |HOM  PUP  END |
 |  F4   F5   F6|              |  F10  F11 F12|
-| {    }    _  |              |INS  PDN  TAB |
+| {    }    _  |      de      |INS  PDN  TAB |
 |--------------|--------------|--------------|
 | •            |      •       |           •  |
 |              |              |              |
 |           •  |           •  | •            |
 |              |              |              |
-| *    +    =  |      ou   v  | `    &    ~  |
+| *    +    =  |  nt  ou   v  | `    &    ~  |
 |              |              |              |
-| [    ]    %  |           z  |CPS   |    ^  |
+| [    ]    %  |      q    z  |CPS   |    ^  |
 |--------------|--------------|--------------|
 
 No index finger button:
@@ -45,7 +45,7 @@ No index finger button:
 |              |              |              |
 |              |              |              |
 |              |              |              |
-|       et   ro|              |       se     | 
+|       et     |            ro|       se     | 
 | an   at   ar | ha   th      |      st      |
 |              |              |              |
 | •            |      •       |           •  |
@@ -53,11 +53,16 @@ No index finger button:
  DEL=Shift+Backspace
 
  Not obvious MCCs:
- ant=ano  as=ac    
- but=ba   de=dra   
- le=les   me=mer   ne=nea
- re=reh   se=set    
-
+ ant=ano
+ as=ac
+ but=ba
+ de=dra
+ le=les
+ me=mer
+ ne=nea
+ ra=rae
+ re=reh
+ se=set
 
 
 ---------------------------
