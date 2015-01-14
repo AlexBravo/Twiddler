@@ -11,25 +11,25 @@
 |              |              |              |
 | •            | •            |           •  |
 |              |              |              |
-| 0   CPY  PST | b    nt  with| !    ?    ;  |
-|  F1   F2   F3|  but  ck     |  F7   F8   F9|
-|UDO  CUT  RDO | ai   ch   co | #    $    :  |
+| 0   CPY  PST | b    nt      | !    ?    ;  |
+|  F1   F2   F3|              |  F7   F8   F9|
+|UDO  CUT  RDO |      ch   co | #    $    :  |
 |--------------|--------------|--------------|
 | •            |      •       |           •  |
 |              |              |              |
 |      •       |      •       |      •       |
 |              |              |              |
 | /    @    \  | nd   p    ed |HOM  PUP  END |
-|  F4   F5   F6|       ph  was|  F10  F11 F12|
-| {    }    _  | ng   q    by |INS  PDN  TAB |
+|  F4   F5   F6|              |  F10  F11 F12|
+| {    }    _  |              |INS  PDN  TAB |
 |--------------|--------------|--------------|
 | •            |      •       |           •  |
 |              |              |              |
 |           •  |           •  | •            |
 |              |              |              |
-| *    +    =  | of   ou   v  | `    &    ~  |
-|              |  not  n't    |              |
-| [    ]    %  |      qu   z  |CPS   |    ^  |
+| *    +    =  |      ou   v  | `    &    ~  |
+|              |              |              |
+| [    ]    %  |           z  |CPS   |    ^  |
 |--------------|--------------|--------------|
 
 No index finger button:
@@ -39,28 +39,26 @@ No index finger button:
 | •            |      •       |           •  |
 |              |              |              |
 | in   ti   ri | en   te   er | on  to   or  |
-|  ing  it   's|  and  the  ex|  ant ow   you|   
-| as   hi   is | ea   he   es | oa  ion  so  |
+|  ing  it     |  and  the  ex|              |   
+| as        is | ea   he   es |     ion      |
 |--------------|--------------|--------------|
 |              |              |              |
 |              |              |              |
 |              |              |              |
-|       et   ro|  his      for|       se     | 
-| an   at   ar | ha   th      |      st   sh |
+|       et   ro|              |       se     | 
+| an   at   ar | ha   th      |      st      |
 |              |              |              |
 | •            |      •       |           •  |
 |--------------|--------------|--------------|
  DEL=Shift+Backspace
 
  Not obvious MCCs:
- ant=ano  as=ac    be=bh 
- but=ba   de=dra   from=rom
+ ant=ano  as=ac    
+ but=ba   de=dra   
  le=les   me=mer   ne=nea
- re=reh   se=set   that=dat 
- this=tis 
- 'll=yl   's=isr
+ re=reh   se=set    
+
+
 
 ---------------------------
 Font size: 18
-aroaontoorantowyouoaionsoauganataretroeaoahahis
-shstsees
