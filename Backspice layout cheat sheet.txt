@@ -11,25 +11,25 @@
 |              |              |              |
 | •            | •            |           •  |
 |              |              |              |
-| 0   CPY  PST | b    nt      | !    ?    ;  |
-|  F1   F2   F3|              |  F7   F8   F9|
-|UDO  CUT  RDO |      ch   co | #    $    :  |
+| 0   CPY  PST | b   nt   ct  | !    ?    ;  |
+|  F1   F2   F3|       ce     |  F7   F8   F9|
+|UDO  CUT  RDO |ac   ch   co  | #    $    :  |
 |--------------|--------------|--------------|
 | •            |      •       |           •  |
 |              |              |              |
 |      •       |      •       |      •       |
 |              |              |              |
-| /    @    \  | nd   p    ed |HOM  PUP  END |
+| /    @    \  |nd    p    ed |HOM  PUP  END |
 |  F4   F5   F6|              |  F10  F11 F12|
-| {    }    _  |      de      |INS  PDN  TAB |
+| {    }    _  |ge   de       |INS  PDN  TAB |
 |--------------|--------------|--------------|
 | •            |      •       |           •  |
 |              |              |              |
 |           •  |           •  | •            |
 |              |              |              |
-| *    +    =  |  nt  ou   v  | `    &    ~  |
+| *    +    =  |nt   ou    v  | `    &    ~  |
 |              |              |              |
-| [    ]    %  |      q    z  |CPS   |    ^  |
+| [    ]    %  |lo    q    z  |CPS   |    ^  |
 |--------------|--------------|--------------|
 
 No index finger button:
@@ -38,15 +38,15 @@ No index finger button:
 |              |              |              |
 | •            |      •       |           •  |
 |              |              |              |
-| in   ti   ri | en   te   er | on  to   or  |
-|  ing  it     |  and  the  ex|              |   
-| as        is | ea   he   es |     ion      |
+|in   ti   ri  |en   te   er  |on  to    or  |
+|  ing  it     |  and  the  ex|           TAB|   
+|as   ic   is  |ea   he   es  |    ion   us  |
 |--------------|--------------|--------------|
 |              |              |              |
 |              |              |              |
 |              |              |              |
-|       et     |            ro|       se     | 
-| an   at   ar | ha   th      |      st      |
+|       et     |            ro|      se      | 
+|an   at   ar  | ha   th   nt |     st       |
 |              |              |              |
 | •            |      •       |           •  |
 |--------------|--------------|--------------|
