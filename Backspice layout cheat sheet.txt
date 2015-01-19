@@ -4,30 +4,30 @@
 |  1    2    3  |  c    d    u  |  ,   ENT   .  |
 |               |               |               |
 |  4    5    6  |  f    l    w  |  ←    ↑    →  |
-|   <    >    ' |   j    k    x |   (    )    - |
+|   <    >    ' |   j         x |   (    )    - |
 |  7    8    9  |  g    m    y  | ESC   ↓    "  |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
 |  •            |  •            |            •  |
 |               |               |               |
-|  0   CPY  PST |  b   ct       |  !    ?    ;  |
-|   F1   F2   F3|        ce     |   F7   F8   F9|
-| UDO  CUT  RDO | ac   ch   co  |  #    $    :  |
+|  0   CPY  PST | co            |  !    ?    ;  |
+|   F1   F2   F3|               |   F7   F8   F9|
+| UDO  CUT  RDO |               |  #    $    :  |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
 |       •       |       •       |       •       |
 |               |               |               |
-|  /    @    \  | nd    p   ed  | HOM  PUP  END |
-|   F4   F5   F6|             ce|   F10  F11 F12|
-|  {    }    _  | ge   de   ec  | INS  PDN  TAB |
+|  /    @    \  |           ed  | HOM  PUP  END |
+|   F4   F5   F6|               |   F10  F11 F12|
+|  {    }    _  |      de       | INS  PDN  TAB |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
 |            •  |            •  |  •            |
 |               |               |               |
-|  *    +    =  | fo   ou    v  |  `    &    ~  |
+|  *    +    =  |       x    v  |  `    &    ~  |
 |               |               |               |
 |  [    ]    %  |       q    z  | CPS   |    ^  |
 |---------------|---------------|---------------|
@@ -35,25 +35,20 @@
 |               |               |               |
 |  •            |       •       |            •  |
 |               |               |               |
-| in   ti   ri  | en   te   er  | on   to   or  |
-|   ing  it     |   and  the  ex|   el   ot     |   
-| as   ic   is  | ea   he   es  | le   ion  us  |
+| in   ti       | en   te   er  | on   to   or  |
+|   ing  it     |   and  the  ex|               |   
+|  k    v       |  p   he   es  | le   ion   b  |
 |---------------|---------------|---------------|
 
  DEL=Shift+Backspace
  TAB=rs
  Not obvious MCCs:
- et=eta
- ha=hn
- me=men
- ne=neh
- nt=rh
- ra=rae
  re=reh
  ro=roh
  se=set
 
+ 
 ---------------------------
 Font size: 18
 
-47 MCCs are shown here.
+24 MCCs are shown here.
