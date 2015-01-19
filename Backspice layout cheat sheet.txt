@@ -19,7 +19,7 @@
 |               |               |               |
 |       •       |       •       |       •       |
 |               |               |               |
-|  /    @    \  |           ed  | HOM  PUP  END |
+|  /    @    \  |      le   ed  | HOM  PUP  END |
 |   F4   F5   F6|               |   F10  F11 F12|
 |  {    }    _  |      de       | INS  PDN  TAB |
 |---------------|---------------|---------------|
@@ -37,16 +37,16 @@
 |               |               |               |
 | in   ti       | en   te   er  | on   to   or  |
 |   ing  it     |   and  the  ex|               |   
-|  k    v       |  p   he   es  | le   ion   b  |
+|  b    v       |  p   he   es  |      ion   k  |
 |---------------|---------------|---------------|
 
  DEL=Shift+Backspace
  TAB=rs
  Not obvious MCCs:
- re=reh
+ re=rh
  ro=roh
  se=set
-
+ 
  
 ---------------------------
 Font size: 18
