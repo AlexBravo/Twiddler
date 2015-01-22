@@ -13,22 +13,22 @@
 |               |               |               |
 | DEL  CPY  PST | co   it       |  !    ?    ;  |
 |   F1   F2   F3|               |   F7   F8   F9|
-| UDO  CUT  RDO |               |  #    $    :  |
+| UDO  CUT  RDO | ck            |  #    $    :  |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
 |       •       |       •       |       •       |
 |               |               |               |
-|  /    @    \  |  0   le   ed  | HOM  PUP  END |
+|  /    @    \  |  0   le   re  | HOM  PUP  END |
 |   F4   F5   F6|               |   F10  F11 F12|
-|  {    }    _  |      de       | INS  PDN  TAB |
+|  {    }    _  | ed   de   se  | INS  PDN  TAB |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
 |            •  |            •  |  •            |
 |               |               |               |
-|  *    +    =  |       x       |  `    &    ~  |
-|               |               |               |
+|  *    +    =  |       x   ro  |  `    &    ~  |
+|               |        ex   sh|               |
 |  [    ]    %  |       q    z  | CPS   |    ^  |
 |---------------|---------------|---------------|
 |  -    -    -  |  -    -    -  |  -    -    -  |
@@ -36,17 +36,13 @@
 |  •            |       •       |            •  |
 |               |               |               |
 | in   ti       | en   te   er  | on   to   or  |
-|   ing  it     |   and  the  ex|               |   
-| ion   v       |  p   he   es  | st    b    k  |
+|   ing  it     |   and  the    |               |   
+|  k    v   is  |  p   he   es  | ion   b   st  |
 |---------------|---------------|---------------|
 
  DEL=Shift+Backspace
  TAB=rs
- Not obvious MCCs:
- re=rh
- ro=roh
- se=set
- 
+ ph=pt
 
 ---------------------------
 Font size: 18
