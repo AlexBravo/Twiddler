@@ -1,15 +1,15 @@
-BackspIce       |---------------|
-                |BCKSP  I  SPACE|
-                |               |
-  '=rh          |  i    e    o  |
-  ph=pt         |   in   te   or|
-                |  n    t    r  |
+                |---------------|
+   BackspIce    |BCKSP  I  SPACE|
+    layout      |               |   al = al
+                |  i    e    o  |   ar = ar
+     ' = rh     |   in   te   or|  are = are
+    ph = pt     |  n    t    r  |   at = at
                 |   an   th  TAB|
                 |  a    h    s  |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
-|  1    2    3  |  c    d    u  |  ,   ENT   .  |
+|  1    2    3  |  c    d    u  |  ,  ENTER  .  |
 |               |               |               |
 |  4    5    6  |  f    l    w  |  ←    ↑    →  |
 |   <    >      |   j    -    sh|   (    )      |
@@ -43,7 +43,8 @@ BackspIce       |---------------|
 |               |               |               |
 |  •            |       •       |            •  |
 |               |               |               |
-| in   ti    ri | en   te   er  | on   to   or  |
-|   ing  it     |   and  the    |               |   
+|      ti    ri | en        er  | on   to       |
+|   ing         |   and  the    |               |   
 |  k    v   is  |  p   he   es  | ion   b   st  |
 |---------------|---------------|---------------|
+4/15/2015: 37 MCCs
