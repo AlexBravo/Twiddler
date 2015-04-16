@@ -2,8 +2,8 @@
    BackspIce    |BCKSP  I  SPACE|
     layout      |               |   al = al
                 |  i    e    o  |   ar = ar
-     ' = rh     |   in   te   or|  are = are
-    ph = pt     |  n    t    r  |   at = at
+     ' = r+h    |   in   te   or|  are = are
+    ph = p+t    |  n    t    r  |   at = at
                 |   an   th  TAB|
                 |  a    h    s  |
 |---------------|---------------|---------------|
@@ -47,4 +47,23 @@
 |   ing         |   and  the    |               |   
 |  k    v   is  |  p   he   es  | ion   b   st  |
 |---------------|---------------|---------------|
-4/15/2015: 37 MCCs
+
+Explanation of diagrams:
+Each rectangle represents Twiddler with a 3x4 grid of buttons.
+
+|---------------|
+|BCKSP  I  SPACE| <- top button row
+|               |
+|  i    e    o  | <- 2nd button row
+|   in   te   or| <- press the closest buttons in both 2nd and 3d rows to get this chord
+|  n    t    r  | <- 3d button row
+|   an   th  TAB| <- press the closest buttons in both 3d and 4th rows to get this chord
+|  a    h    s  | <- 4th button row
+|---------------|
+   ^    ^    ^
+   |    |    |
+   |    |    3d button column
+   |    2nd button column
+   1st button column
+
+There are 37 MCCs as of 4/15/2015
