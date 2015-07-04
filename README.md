@@ -18,8 +18,10 @@ Note: Tabspice layout on this site is definitely optimized for using Twiddler wi
 You probably want to create a mirror layout if you want to use Twiddler with your right hand.
 Feel free to submit a pull request if you create such a layout.
 
+![Image of Backspice layout cheat sheet](https://lh4.googleusercontent.com/-DeAifFAvko4/VS_cJIUQzuI/AAAAAAAAe3Y/HJf-jI-_w0I/w902-h371-no/Backspice%2Blayout%2Bcheat%2Bsheet%2Bexplanation.png)
 -------------------
 
 
 The TabSpace layout description: http://rhodesmill.org/brandon/projects/tabspace-guide.pdf
+
 Some files came originally from: https://github.com/cswetenham/tabspace2.1
