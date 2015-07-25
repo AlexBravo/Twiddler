@@ -28,7 +28,7 @@
 |       •       |       •       |       •       |
 |               |               |               |
 |  /    @    \  |  0   le   re  | HOM  PUP  END |
-|   F4   F5   F6|               |   F10  F11 F12|
+|   F4   F5   F6|   nd          |   F10  F11 F12|
 |  {    }    _  | de   ed   se  | INS  PDN      |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
@@ -44,7 +44,7 @@
 |  •            |       •       |            •  |
 |               |               |               |
 |      ti    ri | en        er  | on   to       |
-|   ing         |   and  the    |               |   
+|   ing         |   and  the    |        nt     |   
 |  k    v   is  |  p   he   es  | ion   b   st  |
 |---------------|---------------|---------------|
 
@@ -66,4 +66,4 @@ Each rectangle represents Twiddler with a 3x4 grid of buttons.
    |    2nd button column
    1st button column
 
-There are 37 MCCs as of 4/15/2015
+There are 39(?) MCCs as of 7/25/2015
