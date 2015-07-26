@@ -1,8 +1,8 @@
                 .---------------.
                 |BCKSP  I  SPACE|  Extra MCCs:
                 |               |   al = a+l
-      BackspIce |  i    e    o  |   ar = a+r
-      layout    |   in   te   or|  are = a+r+e
+   BackspIce    |  i    e    o  |   ar = a+r
+    layout      |   in   te   or|  are = a+r+e
                 |  n    t    r  |   at = a+t
                 |   an   th  TAB|   ph = p+t
                 |  a    h    s  |    ' = r+h

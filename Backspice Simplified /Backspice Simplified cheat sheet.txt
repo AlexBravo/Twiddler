@@ -1,0 +1,60 @@
+                .---------------.
+                |BCKSP  I  SPACE|  Extra chords:
+                |               |   b = o+h
+   BackspIce    |  i    e    o  |   p = e+a
+    layout      |               |   k = i+a
+                |  n    t    r  |   v = i+h
+                |            TAB|   ' = r+h
+                |  a    h    s  |   
+.---------------|---------------|---------------.
+|  •            |       •       |            •  |
+|               |               |               |
+|  1    2    3  |  c    d    u  |  ,  ENTER  .  |
+|   0           |        DEL  z |               |
+|  4    5    6  |  f    l    w  |  ←    ↑    →  |
+|   <    >      |   j    -      |   (    )      |
+|  7    8    9  |  g    m    y  | ESC   ↓    "  |
+|---------------|---------------|---------------|
+|  •            |       •       |            •  |
+|               |               |               |
+|  •            |  •            |            •  |
+|               |               |               |
+|      CPY  PST |               |  !    ?    ;  |
+|               |               |               |
+| UDO  CUT  RDO |               |  #    $    :  |
+|---------------|---------------|---------------|
+|  •            |       •       |            •  |
+|               |               |               |
+|       •       |       •       |       •       |
+|               |               |               |
+|  /    @    \  |               | HOM  PUP  END |
+|               |               |               |
+|  {    }    _  |               | INS  PDN      |
+|---------------|---------------|---------------|
+|  •            |       •       |            •  |
+|               |               |               |
+|            •  |            •  |  •            |
+|               |               |               |
+|  *    +    =  |       x       |  `    &    ~  |
+|               |               |               |
+|  [    ]    %  |       q       | CPS   |    ^  |
+'---------------'---------------'---------------'
+
+Explanation of diagrams:
+Each rectangle represents Twiddler with a 3x4 grid of buttons.
+
+|---------------|
+|BCKSP  I  SPACE| <- top button row
+|               |
+|  i    e    o  | <- 2nd button row
+|               | 
+|  n    t    r  | <- 3d button row
+|            TAB| <- press the closest buttons in both 3d and 4th rows to get this chord
+|  a    h    s  | <- 4th button row
+|---------------|
+   ^    ^    ^
+   |    |    |
+   |    |    3d button column
+   |    2nd button column
+   1st button column
+
