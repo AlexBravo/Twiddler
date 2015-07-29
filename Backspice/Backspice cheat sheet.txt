@@ -43,9 +43,9 @@
 |               |               |               |
 |  •            |       •       |            •  |
 |               |               |               |
-| in   ti  ion  | en   te   er  | on   to    or |
-|   ing         |   and  the    |        nt     |   
-|  k    v   is  |  p   he   es  | ha    b   st  |
+| in   ti   ion | en   te   er  | on   to   or  |
+|   ing  ha     |   and  the    |        nt     |   
+|  k    v   is  |  p   he   es  |       b   st  |
 '---------------'---------------'---------------'
 
 Explanation of diagrams:
