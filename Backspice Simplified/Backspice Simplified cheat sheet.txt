@@ -4,13 +4,13 @@
    BackspIce    |  i    e    o  |   p = e+a
     layout      |               |   k = i+a
                 |  n    t    r  |   v = i+h
-                |            TAB|   ' = r+h
-                |  a    h    s  |   
+                |            TAB|   z = o+t+h
+                |  a    h    s  |   ' = r+h
 .---------------|---------------|---------------.
 |  •            |       •       |            •  |
 |               |               |               |
 |  1    2    3  |  c    d    u  |  ,  ENTER  .  |
-|   0           |        DEL  z |               |
+|   0           |        DEL    |               |
 |  4    5    6  |  f    l    w  |  ←    ↑    →  |
 |   <    >      |   j    -      |   (    )      |
 |  7    8    9  |  g    m    y  | ESC   ↓    "  |
