@@ -1,15 +1,16 @@
                 .---------------.
                 |BCKSP  I  SPACE|  Extra MCCs:
-                |               |   al = a+l    ' = r+h
+                |               |   al = a+l
    BackspIce    |  i    e    o  |   ar = a+r
     layout      |   in   te   or|  are = a+r+e
                 |  n    t    r  |   at = a+t
-                |  a    h    s  |   x = w + h 
+                |   an   th  TAB|    ' = r+h
+                |  a    h    s  |           
 .---------------|---------------|---------------.
 |  •            |       •       |            •  |
 |               |               |               |
 |  1    2    3  |  c    d    u  |  ,  ENTER  .  |
-|   @           |               |               |
+|        0      |               |               |
 |  4    5    6  |  f    l    w  |  ←    ↑    →  |
 |   <    >      |   j    -    sh|   (    )      |
 |  7    8    9  |  g    m    y  | ESC   ↓    "  |
@@ -18,7 +19,7 @@
 |               |               |               |
 |  •            |  •            |            •  |
 |               |               |               |
-|      CPY  PST | co   it       |  !    ?    ;  |
+|  @   CPY  PST | co    q       |  !    ?    ;  |
 |   F1   F2   F3|               |   F7   F8   F9|
 | UDO  CUT  RDO | ck   ch       |  #    $    :  |
 |---------------|---------------|---------------|
@@ -26,24 +27,24 @@
 |               |               |               |
 |       •       |       •       |       •       |
 |               |               |               |
-|  /    0    \  |      DEL   re | HOM  PUP  END |
+|  /    0    \  |      DEL  re  | HOM  PUP  END |
 |   F4   F5   F6|               |   F10  F11 F12|
-|  {    }    _  | de   ed    se | INS  PDN      |
+|  {    }    _  | de   ed   se  | INS  PDN      |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
 |            •  |            •  |  •            |
 |               |               |               |
-|  *    +    =  |  of   le   ro |  `    &    ~  |
+|  *    +    =  | of   le   ro  |  `    &    ~  |
 |               |        ex     |               |
-|  [    ]    %  |       q       | CPS   |    ^  |
+|  [    ]    %  |      ou       | CPS   |    ^  |
 |---------------|---------------|---------------|
 |               |               |               |
 |               |               |               |
 |  •            |       •       |            •  |
 |               |               |               |
 | in   ti   ion | en   te   er  | on   to   or  |
-|   ing         |   and  the    |        z      |   
+|   ing  it     |   and  the    |   x    z      |
 |  k    v   is  |  p   he   es  | as    b   st  |
 '---------------'---------------'---------------'
 
