@@ -66,4 +66,4 @@ Each rectangle represents Twiddler with a 3x4 grid of buttons.
    |    2nd button column
    1st button column
 
-There are 39(?) MCCs as of 7/25/2015
+There are 37 MCCs as of 7/25/2015
