@@ -4,8 +4,8 @@
 |  i    e    o  |  c    d    u  |   p = e+a
 |               |        DEL    |   q = l+i
 |  n    t    r  |  f    l    w  |   v = i+h
-|            TAB|   j    -      |   x = o+n+a
-|  a    h    s  |  g    m    y  |   z = o+t+h				
+|            TAB|   j    -      |   x = o+t+h
+|  a    h    s  |  g    m    y  |   z = o+n+a				
 .---------------|---------------.   ' = r+h
 |  •            |            •  |
 |               |               |

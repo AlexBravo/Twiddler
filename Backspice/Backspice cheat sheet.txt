@@ -44,7 +44,7 @@
 |  •            |       •       |            •  |
 |               |               |               |
 | in   ti   ion | en   te   er  | on   to   or  |
-|   ing  it     |   and  the    |   x    z      |
+|   ing  it     |   and  the    |   z    x      |
 |  k    v   is  |  p   he   es  | as    b   st  |
 '---------------'---------------'---------------'
 
