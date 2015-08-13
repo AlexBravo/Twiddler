@@ -1,10 +1,10 @@
                 .---------------.
                 |BCKSP  I  SPACE|  Extra MCCs:
                 |               |   al = a+l
-   BackspIce    |  i    e    o  |   ar = a+r
-    layout      |   in   te   or|   at = a+t
-                |  n    t    r  |    ' = r+h
-                |   an   th  TAB|    
+   BackspIce    |  i    e    o  |   at = a+t
+    layout      |   in   te   or|    ' = r+h
+                |  n    t    r  |    q = t+s
+                |   an   th  TAB|   ma = m+r
                 |  a    h    s  |           
 .---------------|---------------|---------------.
 |  •            |       •       |            •  |
@@ -27,9 +27,9 @@
 |               |               |               |
 |       •       |       •       |       •       |
 |               |               |               |
-|  /    0    \  | no   DEL      | HOM  PUP  END |
+|  /    0    \  | no   DEL  de  | HOM  PUP  END |
 |   F4   F5   F6|               |   F10  F11 F12|
-|  {    }    _  | de   ed   se  | INS  PDN      |
+|  {    }    _  | ar   ed   se  | INS  PDN      |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |

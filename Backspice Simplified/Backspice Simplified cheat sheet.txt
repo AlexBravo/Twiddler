@@ -51,7 +51,10 @@ Simplified BackspIce layout
 |  k    v       |       b       |
 '---------------'---------------'
 
-Extra chords: p = e+a, q = l+i, ' = r+h
+	Extra chords: 
+		p = e+a
+		q = t+s 
+		' = r+h
 
 Explanation of diagrams:
 Each rectangle represents Twiddler with a 3x4 grid of buttons.
