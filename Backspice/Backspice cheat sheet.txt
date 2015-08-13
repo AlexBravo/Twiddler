@@ -36,16 +36,16 @@
 |            •  |            •  |  •            |
 |               |               |               |
 |  *    +    =  | of   le   ro  |  `    &    ~  |
-|               |        ex     |               |
+|               |               |               |
 |  [    ]    %  |      ou       | CPS   |    ^  |
 |---------------|---------------|---------------|
 |               |               |               |
 |               |               |               |
 |  •            |       •       |            •  |
 |               |               |               |
-| in   ti   ion | en   te   er  | on   to   or  |
+| in   ti   ion | en   te   re  | on   to   or  |
 |   ing  it     |   and  the    |   z    x      |
-|  k    v   is  |  p   he   es  | as    b   st  |
+|  k    v   is  |  p   er   es  | as    b   st  |
 '---------------'---------------'---------------'
 
 Explanation of diagrams:
