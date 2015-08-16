@@ -53,7 +53,7 @@ Simplified BackspIce layout
 
 	Extra chords: 
 		p = e+a
-		q = t+s 
+		q = u+s 
 		' = r+h
 
 Explanation of diagrams:

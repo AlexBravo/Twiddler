@@ -1,11 +1,11 @@
                 .---------------.
-                |BCKSP  I  SPACE|  Extra MCCs:
-                |               |   al = a+l
-   BackspIce    |  i    e    o  |   at = a+t
-    layout      |   in   te   or|    ' = r+h
-                |  n    t    r  |    q = t+s
-                |   an   th  TAB|   ma = m+r
-                |  a    h    s  |           
+                |BCKSP  I  SPACE|
+                |               |  Extra MCCs: 
+   BackspIce    |  i    e    o  |   al = a+l
+    layout      |   in   te   or|   at = a+t
+                |  n    t    r  |    ' = r+h
+                |   an   th  TAB|   ma = m+r 
+                |  a    h    s  |
 .---------------|---------------|---------------.
 |  •            |       •       |            •  |
 |               |               |               |
@@ -37,7 +37,7 @@
 |               |               |               |
 |  *    +    =  | of   le   ro  |  `    &    ~  |
 |               |               |               |
-|  [    ]    %  |      ou       | CPS   |    ^  |
+|  [    ]    %  |      ou    q  | CPS   |    ^  |
 |---------------|---------------|---------------|
 |               |               |               |
 |               |               |               |
@@ -45,7 +45,7 @@
 |               |               |               |
 | in   ti   ion | en   te   re  | on   to   or  |
 |   ing  it     |   and  the    |   z    x      |
-|  k    v   is  |  p   er   es  | as    b    q  |
+|  k    v   is  |  p   er   es  | as    b   st  |
 '---------------'---------------'---------------'
 
 Explanation of diagrams:
