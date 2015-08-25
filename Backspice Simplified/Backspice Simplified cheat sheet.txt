@@ -32,7 +32,7 @@ Simplified BackspIce layout
 |               |               |
 |  /    0    \  | HOM  PUP  END |
 |               |               |
-|  {    }    _  | INS  PDN      |
+|  {    }    _  | INS  PDN  CPS |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
@@ -40,7 +40,7 @@ Simplified BackspIce layout
 |               |               |
 |  *    +    =  |  `    &    ~  |
 |               |               |
-|  [    ]    %  | CPS   |    ^  |
+|  [    ]    %  |       |    ^  |
 |---------------|---------------|
 |               |               |
 |               |               |
