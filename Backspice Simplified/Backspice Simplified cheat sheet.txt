@@ -2,13 +2,13 @@
 Simplified BackspIce layout
 
 .---------------.---------------.
-|BCKSP  I  SPACE|       •       |
+|BCKSP  s  SPACE|       •       |
 |               |               |
 |  i    e    o  |  c    d    u  |
 |               |        DEL    |
 |  n    t    r  |  f    l    w  |
 |            TAB|   j    -      |
-|  a    h    s  |  g    m    y  |		
+|  a    h    y  |  g    m       |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
@@ -51,10 +51,10 @@ Simplified BackspIce layout
 |  k    v       |       b       |
 '---------------'---------------'
 
-	Extra chords: 
-		p = e+a
-		q = u+s 
-		' = r+h
+Extra chords:
+p = e+h
+q = u+y
+' = r+h
 
 Explanation of diagrams:
 Each rectangle represents Twiddler with a 3x4 grid of buttons.
