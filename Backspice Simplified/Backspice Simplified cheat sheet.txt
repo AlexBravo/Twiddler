@@ -8,7 +8,7 @@ Simplified BackspIce layout
 |               |        DEL    |
 |  n    t    r  |  f    l    w  |
 |            TAB|   j    -      |
-|  a    h    y  |  g    m       |
+|  a    h       |  g    m       |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
@@ -41,36 +41,33 @@ Simplified BackspIce layout
 |  *    +    =  |  `    &    ~  |
 |               |               |
 |  [    ]    %  |       |    ^  |
-|---------------|---------------|
-|               |               |
-|               |               |
-|  •            |            •  |
-|               |               |
-|               |               |
-|               |   z    x      |
-|  k    v       |       b       |
 '---------------'---------------'
 
 Extra chords:
+b = o+h
+k = i+a
 p = e+h
 q = u+y
+v = i+t+a
+y = i+h
+x = o+t+h
+z = o+n+a
 ' = r+h
 
 Explanation of diagrams:
 Each rectangle represents Twiddler with a 3x4 grid of buttons.
 
 |---------------|
-|BCKSP  I  SPACE| <- top button row
+|BCKSP  s  SPACE| <- top button row
 |               |
 |  i    e    o  | <- 2nd button row
 |               | 
 |  n    t    r  | <- 3d button row
 |            TAB| <- press the closest buttons in both 3d and 4th rows to get this chord
-|  a    h    s  | <- 4th button row
+|  a    h       | <- 4th button row
 |---------------|
    ^    ^    ^
    |    |    |
-   |    |    3d button column
-   |    2nd button column
-   1st button column
-
+   |    |    3d button column (L - left)
+   |    2nd button column (M - middle)
+   1st button column (R - right)
