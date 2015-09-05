@@ -1,11 +1,11 @@
-                .---------------.
-                |BCKSP  s  SPACE|  Extra MCCs:
-                |               |   al = a+l
-   BackspIce    |  i    e    o  |   ar = a+r
-    layout      |   in   st   or|   at = a+t
-                |  n    t    r  |   ma = m+r
-                |   an   th  TAB|    v = k+t
-                |  a    h       |    ' = r+h
+                .---------------. Extra MCCs:
+                |BCKSP  s  SPACE| al=a+l   '=r+h
+                |               | ar=a+r   
+   BackspIce    |  i    e    o  | as=a+s+r
+    layout      |   in   st   or| at=a+t
+                |  n    t    r  | es=e+at
+                |   an   th  TAB| ma=m+r 
+                |  a    h       | v=k+t    
 .---------------|---------------|---------------.
 |  •            |       •       |            •  |
 |               |               |               |
@@ -29,7 +29,7 @@
 |               |               |               |
 |  /    0    \  | no   DEL  de  | HOM  PUP  END |
 |   F4   F5   F6|               |   F10  F11 F12|
-|  {    }    _  |      ed   se  | INS  PDN  CPS |
+|  {    }    _  | se   ed       | INS  PDN  CPS |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
@@ -37,15 +37,15 @@
 |               |               |               |
 |  *    +    =  | of   le   ro  |  `    &    ~  |
 |               |               |               |
-|  [    ]    %  |      ou    q  |       |    ^  |
+|  [    ]    %  |  q   ou       |       |    ^  |
 |---------------|---------------|---------------|
 |               |               |               |
 |               |               |               |
 |  •            |       •       |            •  |
 |               |               |               |
-| in   ti   ion | en   st   re  | on   to   or  |
+| in   ti   is  | en   st   re  | on   to   or  |
 |   ing  it     |   and  the    |   z    x      |
-|  k    y   is  | er    p   es  | as    b       |
+|  k    y       | er    p       | ion   b       |
 '---------------'---------------'---------------'
 
 Explanation of diagrams:

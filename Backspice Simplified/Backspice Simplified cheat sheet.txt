@@ -47,7 +47,7 @@ Extra chords:
 b = o+h
 k = i+a
 p = e+h
-q = u+y
+q = u+a
 v = i+t+a
 y = i+h
 x = o+t+h
