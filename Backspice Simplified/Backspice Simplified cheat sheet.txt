@@ -5,7 +5,7 @@ Simplified BackspIce layout
 |BCKSP  s  SPACE|       •       |
 |               |               |
 |  i    e    o  |  c    d    u  |
-|               |        DEL    |
+|        g      |        DEL    |
 |  n    t    r  |  f    l    w  |
 |            TAB|   j    -      |
 |  a    h       |  g    m       |
@@ -61,7 +61,7 @@ Each rectangle represents Twiddler with a 3x4 grid of buttons.
 |BCKSP  s  SPACE| <- top button row
 |               |
 |  i    e    o  | <- 2nd button row
-|               | 
+|        g      | 
 |  n    t    r  | <- 3d button row
 |            TAB| <- press the closest buttons in both 3d and 4th rows to get this chord
 |  a    h       | <- 4th button row

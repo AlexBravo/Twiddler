@@ -1,11 +1,11 @@
                 .---------------. Extra MCCs:
-                |BCKSP  s  SPACE| al=a+l   '=r+h
-                |               | ar=a+r   
-   BackspIce    |  i    e    o  | as=a+s+r
-    layout      |   in   st   or| at=a+t
-                |  n    t    r  | es=e+at
-                |   an   th  TAB| ma=m+r 
-                |  a    h       | v=k+t    
+                |BCKSP  s  SPACE|   al=a+l
+                |               |   ar=a+r
+   BackspIce    |  i    e    o  |   at=a+t
+    layout      |   in   g    or|   es=e+at
+                |  n    t    r  |   ma=m+r
+                |   an   th  TAB|   v=k+t
+                |  a    h       |   '=r+h
 .---------------|---------------|---------------.
 |  •            |       •       |            •  |
 |               |               |               |
@@ -13,7 +13,7 @@
 |        0      |               |               |
 |  4    5    6  |  f    l    w  |  ←    ↑    →  |
 |   <    >      |   j    -      |   (    )      |
-|  7    8    9  |  g    m       | ESC   ↓    "  |
+|  7    8    9  |  st   m       | ESC   ↓    "  |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
@@ -43,7 +43,7 @@
 |               |               |               |
 |  •            |       •       |            •  |
 |               |               |               |
-| in   ti   is  | en   st   re  | on   to   or  |
+| in   ti   is  | en    g   re  | on   to   or  |
 |   ing  it     |   and  the    |   z    x      |
 |  k    y       | er    p       | ion   b       |
 '---------------'---------------'---------------'
@@ -55,7 +55,7 @@ Each rectangle represents Twiddler with a 3x4 grid of buttons.
 |BCKSP  s  SPACE| <- top button row
 |               |
 |  i    e    o  | <- 2nd button row
-|   in   st   or| <- press the closest buttons in both 2nd and 3d rows to get this chord
+|   in   g    or| <- press the closest buttons in both 2nd and 3d rows to get this chord
 |  n    t    r  | <- 3d button row
 |   an   th  TAB| <- press the closest buttons in both 3d and 4th rows to get this chord
 |  a    h       | <- 4th button row
