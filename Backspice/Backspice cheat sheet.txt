@@ -1,7 +1,7 @@
                 .---------------. Extra MCCs:
                 |BCKSP  s  SPACE|   al=a+l
                 |               |   ar=a+r
-   BackspIce    |  i    e    o  |   at=a+t
+   Backspice    |  i    e    o  |   at=a+t
     layout      |   in   g    or|   es=e+at
                 |  n    t    r  |   ma=m+r
                 |   an   th  TAB|   v=k+t
