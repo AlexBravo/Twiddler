@@ -8,7 +8,7 @@ Simplified Backspice layout
 |        g      |        DEL    |
 |  n    t    r  |  f    l    w  |
 |            TAB|   j    -      |
-|  a    h       |  g    m       |
+|  a    h       |       m       |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
