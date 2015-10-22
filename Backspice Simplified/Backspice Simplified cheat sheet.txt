@@ -22,9 +22,9 @@ Simplified Backspice layout
 |               |               |
 |  •            |            •  |
 |               |               |
-|  @   CPY  PST |  !    ?    ;  |
+| CPY  PST  CUT |  !    ?    ;  |
 |               |               |
-| UDO  CUT  RDO |  #    $    :  |
+| UDO  RDO      |  #    $    :  |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
@@ -40,7 +40,7 @@ Simplified Backspice layout
 |               |               |
 |  *    +    =  |  `    &    ~  |
 |               |               |
-|  [    ]    %  |       |    ^  |
+|  [    ]    %  |  @    |    ^  |
 '---------------'---------------'
 
 Extra chords:
