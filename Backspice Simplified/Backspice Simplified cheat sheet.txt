@@ -8,7 +8,7 @@ Simplified Backspice layout
 |        g      |        DEL    |
 |  n    t    r  |  f    l    w  |
 |            TAB|   j    -      |
-|  a    h       |       m       |
+|  a    h       |  k    m       |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
@@ -45,14 +45,15 @@ Simplified Backspice layout
 
 Extra chords:
 b = o+h
-k = i+a
 p = e+h
 q = u+a
-v = i+t+a
+v = r+h
 y = i+h
 x = o+t+h
 z = o+n+a
-' = r+h
+' = o+r+h
+" = e+r+h
+: = i+a
 
 Explanation of diagrams:
 Each rectangle represents Twiddler with a 3x4 grid of buttons.

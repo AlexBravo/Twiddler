@@ -1,11 +1,11 @@
                 .---------------. Extra MCCs:
-                |BCKSP  s  SPACE|   al=a+l
-                |               |   ar=a+r
-   Backspice    |  i    e    o  |   at=a+t
-    layout      |   in   g    or|   es=e+at
-                |  n    t    r  |   ma=m+r
-                |   an   th  TAB|   v=r+h
-                |  a    h       |   '=orh "=erh
+                |BCKSP  s  SPACE| al=a+l ar=a+r
+                |               | at=a+t es=e+at
+   Backspice    |  i    e    o  | ma=m+r v=r+h
+    layout      |   in   g    or| 
+                |  n    t    r  | '=o+r+h
+                |   an   th  TAB| "=e+r+h
+                |  a    h       | 
 .---------------|---------------|---------------.
 |  •            |       •       |            •  |
 |               |               |               |
