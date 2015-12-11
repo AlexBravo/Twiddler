@@ -7,8 +7,8 @@ Simplified Backspice layout
 |  i    e    o  |  c    d    u  |
 |        g      |        DEL    |
 |  n    t    r  |  f    l    w  |
-|             - |   j    -      |
-|  a    h   TAB |  k    m       |
+|               |   j           |
+|  a    h   TAB |  k    m    -  |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
@@ -16,7 +16,7 @@ Simplified Backspice layout
 |        0    9 |               |
 |  4    5    6  |  ←    ↑    →  |
 |   <    >      |   (    )      |
-|  7    8    9  | ESC   ↓    `  |
+|  7    8    _  | ESC   ↓    `  |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
@@ -24,7 +24,7 @@ Simplified Backspice layout
 |               |               |
 | CPY  PST  CUT |  !    ?    ;  |
 |               |               |
-| UDO  RDO      |  #    $    :  |
+| UDO  RDO      |  #    $       |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
@@ -32,7 +32,7 @@ Simplified Backspice layout
 |               |               |
 |  /    0    \  | HOM  PUP  END |
 |               |               |
-|  {    }    _  | INS  PDN  CPS |
+|  {    }       | INS  PDN  CPS |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
