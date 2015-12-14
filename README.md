@@ -13,8 +13,6 @@ I developed Backspice layout as an improvement of an already great TabSpace layo
 I use this layout all day, every day, at least 8 hours per day. 
 Usually doing software development on a Mac.
 
-The
-
 Right now I only maintain Backspice layout for the left hand here, as I use only the left hand with it. 
 You will definitely need to create a mirror layout if you want to use Twiddler with your right hand.
 Feel free to submit a pull request if you create such a layout.
