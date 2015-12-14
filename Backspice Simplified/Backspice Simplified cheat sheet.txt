@@ -45,15 +45,12 @@ Simplified Backspice layout
 
 Extra chords:
 b = o+h
-p = e+h
-q = u+a
-v = r+h
+p = e+h     ' = o+r+h
+q = u+a     " = e+r+h
+v = r+h     : = i+a
 y = i+h
 x = o+t+h
 z = o+n+a
-' = o+r+h
-" = e+r+h
-: = i+a
 
 Explanation of diagrams:
 Each rectangle represents Twiddler with a 3x4 grid of buttons.
@@ -62,13 +59,14 @@ Each rectangle represents Twiddler with a 3x4 grid of buttons.
 |BCKSP  s  SPACE| <- top button row
 |               |
 |  i    e    o  | <- 2nd button row
-|        g      | 
+|        g      | <- press the closest buttons in both 3d and 4th rows
 |  n    t    r  | <- 3d button row
-|            TAB| <- press the closest buttons in both 3d and 4th rows to get this chord
-|  a    h       | <- 4th button row
+|               | 
+|  a    h   TAB | <- 4th button row
 |---------------|
    ^    ^    ^
    |    |    |
    |    |    3d button column (L - left)
    |    2nd button column (M - middle)
    1st button column (R - right)
+
