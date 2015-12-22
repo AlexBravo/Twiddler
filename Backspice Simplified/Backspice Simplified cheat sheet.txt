@@ -6,8 +6,8 @@ Simplified Backspice layout
 |  i    e    o  |  c    d    u  |  p = e + h
 |        g      |        DEL    |  q = u + a
 |  n    t    r  |  f    l    w  |  v = r + h
-|            TAB|   j    -      |  x = o + t + h
-|  a    h       |  k    m       |  y = i + h
+|               |   j           |  x = o + t + h
+|  a    h   TAB |  k    m    -  |  y = i + h
 |---------------|---------------|  z = o + n + a
 |  •            |            •  |  ' = o + r + h
 |               |               |  " = e + r + h
@@ -15,7 +15,7 @@ Simplified Backspice layout
 |        0    9 |               |
 |  4    5    6  |  ←    ↑    →  |
 |   <    >      |   (    )      |
-|  7    8    9  | ESC   ↓    '  |     b       p       q       v       x
+|  7    8    _  | ESC   ↓    '  |     b       p       q       v       x
 |---------------|---------------|  .-----. .-----. .-----. .-----. .-----.
 |  •            |            •  |  |     | |     | |  M  | |     | |     |
 |               |               |  |    L| |  M  | |    L| |     | |    L|
@@ -23,7 +23,7 @@ Simplified Backspice layout
 |               |               |  |  M  | |  M  | |R    | |  M  | |  M  |
 | CPY  PST  CUT |  !    ?    ;  |  '-----' '-----' '-----' '-----' '-----'
 |               |               |
-| UDO  RDO      |  #    $    :  |     y       z       '       "       :
+| UDO  RDO      |  #    $       |     y       z       '       "       :
 |---------------|---------------|  .-----. .-----. .-----. .-----. .-----.
 |  •            |            •  |  |     | |     | |     | |     | |     |
 |               |               |  |R    | |    L| |    L| |  M  | |R    |
@@ -43,16 +43,17 @@ Simplified Backspice layout
 '---------------'---------------'
 
 Explanation of diagrams:
+
 Each rectangle represents Twiddler with a 3x4 grid of buttons.
 
 |---------------|
 |BCKSP  s  SPACE| <- top button row
 |               |
 |  i    e    o  | <- 2nd button row
-|        g      | 
+|        g      | <- press the closest buttons in both 3d and 4th rows
 |  n    t    r  | <- 3d button row
-|            TAB| <- press the closest buttons in both 3d and 4th rows to get this chord
-|  a    h       | <- 4th button row
+|               |
+|  a    h   TAB | <- 4th button row
 |---------------|
    ^    ^    ^
    |    |    |

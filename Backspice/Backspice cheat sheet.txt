@@ -4,22 +4,22 @@
    Backspice    |  i    e    o  | ma=m+r v=r+h
     layout      |   in   g    or| 
                 |  n    t    r  | '=o+r+h
-                |   an   th  TAB| "=e+r+h
-                |  a    h       | 
+                |   an   th     | "=e+r+h
+                |  a    h   TAB | 
 .---------------|---------------|---------------.
 |  •            |       •       |            •  |
 |               |               |               |
 |  1    2    3  |  c    d    u  |  ,  ENTER  .  |
 |        0    9 |               |               |
 |  4    5    6  |  f    l    w  |  ←    ↑    →  |
-|   <    >      |   j    -      |   (    )      |
-|  7    8       |  k    m       | ESC   ↓    `  |
+|   <    >      |   j    st     |   (    )      |
+|  7    8    _  |  k    m    -  | ESC   ↓    `  |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
 |  •            |  •            |            •  |
 |               |               |               |
-| CPY  PST  CUT | co   il   st  |  !    ?    ;  |
+| CPY  PST  CUT | co   il       |  !    ?    ;  |
 |               |               |               |
 | UDO  RDO      | ac   ch       |  #    $       |
 |---------------|---------------|---------------|
@@ -29,7 +29,7 @@
 |               |               |               |
 |  /    0    \  | no   DEL  de  | HOM  PUP  END |
 |               |               |               |
-|  {    }    _  | se   ed       | INS  PDN  CPS |
+|  {    }       | se   ed       | INS  PDN  CPS |
 |---------------|---------------|---------------|
 |  •            |       •       |            •  |
 |               |               |               |
@@ -49,16 +49,16 @@
 '---------------'---------------'---------------'
 
 Explanation of diagrams:
-Each rectangle represents Twiddler with a 3x4 grid of buttons.
+Each rectangle represents the Twiddler with a 3x4 grid of buttons.
 
 |---------------|
 |BCKSP  s  SPACE| <- top button row
 |               |
 |  i    e    o  | <- 2nd button row
-|   in   g    or| <- press the closest buttons in both 2nd and 3d rows to get this chord
+|   in   g    or| <- press the closest buttons in both 2nd and 3d rows
 |  n    t    r  | <- 3d button row
-|   an   th  TAB| <- press the closest buttons in both 3d and 4th rows to get this chord
-|  a    h       | <- 4th button row
+|   an   th     | <- press the closest buttons in both 3d and 4th rows
+|  a    h   TAB | <- 4th button row
 |---------------|
    ^    ^    ^
    |    |    |
@@ -66,4 +66,4 @@ Each rectangle represents Twiddler with a 3x4 grid of buttons.
    |    2nd button column (M - middle)
    1st button column (R - right)
 
-There are 37 MCCs as of 7/25/2015
+There are 36 MCCs as of 12/14/2015
