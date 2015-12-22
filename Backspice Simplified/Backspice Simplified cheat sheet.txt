@@ -1,38 +1,37 @@
-
 Simplified Backspice layout
 
-.---------------.---------------.
+.---------------.---------------.  Extra Cords:
 |BCKSP  s  SPACE|       •       |
-|               |               |
-|  i    e    o  |  c    d    u  |
-|        g      |        DEL    |
-|  n    t    r  |  f    l    w  |
-|               |   j           |
-|  a    h   TAB |  k    m    -  |
-|---------------|---------------|
-|  •            |            •  |
-|               |               |
-|  1    2    3  |  ,  ENTER  .  |
+|               |               |  b = o + h
+|  i    e    o  |  c    d    u  |  p = e + h
+|        g      |        DEL    |  q = u + a
+|  n    t    r  |  f    l    w  |  v = r + h
+|               |   j           |  x = o + t + h
+|  a    h   TAB |  k    m    -  |  y = i + h
+|---------------|---------------|  z = o + n + a
+|  •            |            •  |  ' = o + r + h
+|               |               |  " = e + r + h
+|  1    2    3  |  ,  ENTER  .  |  : = i + a
 |        0    9 |               |
 |  4    5    6  |  ←    ↑    →  |
 |   <    >      |   (    )      |
-|  7    8    _  | ESC   ↓    `  |
-|---------------|---------------|
-|  •            |            •  |
+|  7    8    _  | ESC   ↓    '  |     b       p       q       v       x
+|---------------|---------------|  .-----. .-----. .-----. .-----. .-----.
+|  •            |            •  |  |     | |     | |  M  | |     | |     |
+|               |               |  |    L| |  M  | |    L| |     | |    L|
+|  •            |            •  |  |     | |     | |     | |    L| |  M  |
+|               |               |  |  M  | |  M  | |R    | |  M  | |  M  |
+| CPY  PST  CUT |  !    ?    ;  |  '-----' '-----' '-----' '-----' '-----'
 |               |               |
-|  •            |            •  |
+| UDO  RDO      |  #    $       |     y       z       '       "       :
+|---------------|---------------|  .-----. .-----. .-----. .-----. .-----.
+|  •            |            •  |  |     | |     | |     | |     | |     |
+|               |               |  |R    | |    L| |    L| |  M  | |R    |
+|       •       |       •       |  |     | |R    | |    L| |    L| |     |
+|               |               |  |  M  | |R    | |  M  | |  M  | |R    |
+|  /    0    \  | HOM  PUP  END |  '-----' '-----' '-----' '-----' '-----'
 |               |               |
-| CPY  PST  CUT |  !    ?    ;  |
-|               |               |
-| UDO  RDO      |  #    $       |
-|---------------|---------------|
-|  •            |            •  |
-|               |               |
-|       •       |       •       |
-|               |               |
-|  /    0    \  | HOM  PUP  END |
-|               |               |
-|  {    }       | INS  PDN  CPS |
+|  {    }    _  | INS  PDN  CPS |
 |---------------|---------------|
 |  •            |            •  |
 |               |               |
@@ -43,16 +42,8 @@ Simplified Backspice layout
 |  [    ]    %  |  @    |    ^  |
 '---------------'---------------'
 
-Extra chords:
-b = o+h
-p = e+h     ' = o+r+h
-q = u+a     " = e+r+h
-v = r+h     : = i+a
-y = i+h
-x = o+t+h
-z = o+n+a
-
 Explanation of diagrams:
+
 Each rectangle represents Twiddler with a 3x4 grid of buttons.
 
 |---------------|
@@ -61,7 +52,7 @@ Each rectangle represents Twiddler with a 3x4 grid of buttons.
 |  i    e    o  | <- 2nd button row
 |        g      | <- press the closest buttons in both 3d and 4th rows
 |  n    t    r  | <- 3d button row
-|               | 
+|               |
 |  a    h   TAB | <- 4th button row
 |---------------|
    ^    ^    ^
@@ -69,4 +60,3 @@ Each rectangle represents Twiddler with a 3x4 grid of buttons.
    |    |    3d button column (L - left)
    |    2nd button column (M - middle)
    1st button column (R - right)
-
