@@ -51,7 +51,7 @@
 Explanation of diagrams:
 Each rectangle represents the Twiddler with a 3x4 grid of buttons.
 
-|---------------|
+.---------------.
 |BCKSP  s  SPACE| <- top button row
 |               |
 |  i    e    o  | <- 2nd button row
@@ -59,11 +59,14 @@ Each rectangle represents the Twiddler with a 3x4 grid of buttons.
 |  n    t    r  | <- 3d button row
 |   an   th     | <- press the closest buttons in both 3d and 4th rows
 |  a    h   TAB | <- 4th button row
-|---------------|
-   ^    ^    ^
+'---------------'
+   |    |    |
    |    |    |
    |    |    3d button column (L - left)
    |    2nd button column (M - middle)
    1st button column (R - right)
+
+To type "d", press and release simultaneously two buttons: <s> and <e>
+To type ";", press and release simultaneously three buttons: "SPC", <o> and <r>
 
 There are 36 MCCs as of 12/14/2015

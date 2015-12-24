@@ -15,7 +15,7 @@ Simplified Backspice layout
 |        0    9 |               |
 |  4    5    6  |  ←    ↑    →  |
 |   <    >      |   (    )      |
-|  7    8    _  | ESC   ↓    '  |     b       p       q       v       x
+|  7    8    _  | ESC   ↓    `  |     b       p       q       v       x
 |---------------|---------------|  .-----. .-----. .-----. .-----. .-----.
 |  •            |            •  |  |     | |     | |  •  | |     | |     |
 |               |               |  |    •| |  •  | |    •| |     | |    •|
@@ -46,17 +46,20 @@ Explanation of diagrams:
 
 Each rectangle represents Twiddler with a 3x4 grid of buttons.
 
-|---------------|
-|BCKSP  s  SPACE| <- top button row
+.---------------.
+|BCKSP  s  SPACE| - 1st button row
 |               |
-|  i    e    o  | <- 2nd button row
-|        g      | <- press the closest buttons in both 3d and 4th rows
-|  n    t    r  | <- 3d button row
+|  i    e    o  | - 2nd button row
+|        g      | - press the closest buttons in both 2nd and 3d rows
+|  n    t    r  | - 3d button row
 |               |
-|  a    h   TAB | <- 4th button row
-|---------------|
-   ^    ^    ^
+|  a    h   TAB | - 4th button row
+'---------------'
    |    |    |
    |    |    3d button column (L - left)
    |    2nd button column (M - middle)
    1st button column (R - right)
+
+To type "d", press and release simultaneously two buttons: <s> and <e>
+To type ";", press and release simultaneously three buttons: "SPC", <o> and <r>
+

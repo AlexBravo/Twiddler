@@ -1,0 +1,41 @@
+Simplified Backspice layout
+
+.---------.---------.---------.---------.---------.
+|BKS s SPC|    •    |         |         |         |
+| i  e  o | c  d  u | y  p  b |       x |    "  ' |
+| n  t  r | f  l  w |       v |    •    |       • |
+| a  h TAB| k  m  - |    •    |    •    |    •    |
+|---------|---------|---------|---------|---------|
+| •       |       • | <  j  ( |    •    |         |
+| 1  2  3 | , ENR . |       z |       • | :       |
+| 4  5  6 | ←  ↑  → | •       |         |         |
+| 7  8  _ |ESC ↓  ` | •       | q       | •       |
+|---------|---------|---------|---------|---------|
+| •       |       • | >     ) |         |    •    |
+| •       |       • |         |    •    |    •    |
+|CPY PT CT| !  ?  ; |    •    |    g    |   DEL   |
+|UDO RDO  | #  $    |    •    |         |         |
+|---------|---------|---------|---------|---------'
+|•        | •       |       • |        •|
+|    •    |       • | •       |    •    |
+|/   0  \ | *  +  9 | =  &  ~ |HM PU END|
+|{   }  _ | [  ]  % | @  |  ^ |IN PD CPS|
+'---------'---------'---------'---------'
+
+Explanation of diagrams:
+
+Each rectangle represents Twiddler with a 3x4 grid of buttons.
+
+.---------.
+|BCK s SPC| - 1st button row
+| i  e  o | - 2nd button row
+| n  t  r | - 3d  button row
+| a  h TAB| - 4th button row
+'---------'
+  |  |  |
+  |  |  3d button column (L - left)
+  |  2nd button column (M - middle)
+  1st button column (R - right)
+
+To type "d", press and release simultaneously two buttons: <s> and <e>
+To type ";", press and release simultaneously three buttons: "SPC", <o> and <r>
