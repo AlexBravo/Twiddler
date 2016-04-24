@@ -1,5 +1,5 @@
 Backspice layout Extra MCCs:
-al=a+l  ar=a+r  at=a+t  es=e+at
+al=a+l  ar=a+r  at=a+t  et=e+t+a
 v=r+h   '=o+r+h "=e+r+h
 
 .---------------.---------------.---------------.---------------.
@@ -23,15 +23,15 @@ v=r+h   '=o+r+h "=e+r+h
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en    g   er  | is   il       | es   DEL      | of   ou       |
+| en    g   er  | is   il       | ion  DEL  es  | of   ou       |
 |   and  the    |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-|       p       | ac   ch       |      ed       |  q            |
+|       p       | ac   ch       | as   ed       |  q   om       |
 '---------------|---------------|---------------|---------------|
 |               |            •  |            •  |            •  |
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
-| on        or  |  =    &    ~  | HOM  PUP  END |  !    ?    ;  |
+| on   ot   or  |  =    &    ~  | HOM  PUP  END |  !    ?    ;  |
 |   z    -      |               |               |   F10  F11 F12|
 |  x    b       |  @    |    ^  | INS  PDN  CPS |  #    $       |
 '---------------'---------------'---------------'---------------'
