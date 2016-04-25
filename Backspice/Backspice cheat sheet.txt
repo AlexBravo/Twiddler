@@ -15,15 +15,15 @@ v=r+h   '=o+r+h "=e+r+h
 |               |               |               |               |
 |  •            |  •            |       •       |            •  |
 |               |               |               |               |
-| in    it      | CPY  PST  CUT |  /    0    \  |  *    +    9  |
-|   ing         |               |               |               |
+| in   it       | CPY  PST  CUT |  /    0    \  |  *    +    9  |
+|   ing ion     |               |               |               |
 |  :    y       | UDO  RDO      |  {    }       |  [    ]    %  |
 |---------------|---------------|---------------|---------------|
 |               |       •       |       •       |       •       |
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en    g   er  | is   il       | ion  DEL  es  | of   ou       |
+| en    g   er  | is   il       |      DEL  es  | of   ou       |
 |   and  the    |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
 |       p       | ac   ch       | as   ed       |  q   om       |
 '---------------|---------------|---------------|---------------|
@@ -57,4 +57,4 @@ Each rectangle represents the Twiddler with a 3x4 grid of buttons.
 To type "d", press and release simultaneously two buttons: <s> and <e>
 To type ";", press and release simultaneously three buttons: "SPC", <o> and <r>
 
-There are 36 MCCs as of 12/14/2015
+There are 28 MCCs as of 4/24/2016
