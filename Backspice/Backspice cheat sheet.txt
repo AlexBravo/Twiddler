@@ -57,3 +57,8 @@ To type "d", press and release simultaneously two buttons: <s> and <e>
 To type ";", press and release simultaneously three buttons: "SPC", <o> and <r>
 
 There are 29 MCCs as of 5/10/2016
+
+Only 10 MCCs need to be memorized, the other MCCs are just comprised of letters:
+and(a+n+e), as(a+s+e), ed(e+d+h), es(e+s+r), et(e+t+a), 
+ing(i+n+a), ion(i+t+h), is(i+s+n), ou(o+u+t), st(s+t+h)
+
