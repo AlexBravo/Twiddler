@@ -3,7 +3,7 @@ al=a+l  ar=a+r  at=a+t  et=e+t+a <to >=t+o+SPACE
 v=r+h   '=o+r+h "=e+r+h 
 
 .---------------.---------------.---------------.---------------.
-|BCKSP  s  SPACE|  •            |       •       |            •  |
+|BCKSP SPC   s  |  •            |       •       |            •  |
 |               |               |               |               |
 |  i    e    o  |  1    2    3  |  c    d    u  |  ,  ENTER  .  |
 |   in   g    or|        0    9 |               |               |
