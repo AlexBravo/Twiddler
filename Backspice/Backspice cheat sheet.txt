@@ -62,3 +62,10 @@ Only 10 MCCs need to be memorized, the other MCCs are just comprised of letters:
 and(a+n+e), as(a+s+e), ed(e+d+h), es(e+s+r), et(e+t+a), 
 ing(i+n+a), ion(i+t+h), is(i+s+n), ou(o+u+t), st(s+t+h)
 
+Additional chords added for convenience:
+MMLM - most used email
+OLMR - select all text
+MLLM - make text bold
+RRMR - cross out text
+ROMR - full name without space
+S+ROMR - capitalized full name with space
