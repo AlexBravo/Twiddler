@@ -58,11 +58,11 @@ To type ";", press and release simultaneously three buttons: "SPC", <o> and <r>
 
 There are 29 MCCs as of 5/10/2016
 
-Only 10 MCCs need to be memorized, the other MCCs are just comprised of letters:
-and(a+n+e), as(a+s+e), ed(e+d+h), es(e+s+r), et(e+t+a), 
-ing(i+n+a), ion(i+t+h), is(i+s+n), ou(o+u+t), st(s+t+h)
+Only 10 MCCs are not just comprised of corresponding letter buttons:
+and(a+n+e), as(a+Space+e), ed(e+d+h), es(e+Space+r), et(e+t+a),
+ing(i+n+a), ion(i+t+h), is(i+Space+n), ou(o+u+t), st(Space+t+h)
 
-Additional chords added for convenience:
+Additional convenience chords:
 MMLM - most used email
 OLMR - select all text
 MLLM - make text bold
