@@ -15,15 +15,15 @@ v=r+h   '=o+r+h "=e+r+h
 |               |               |               |               |
 |  •            |  •            |       •       |            •  |
 |               |               |               |               |
-| in   it       | CPY  PST  CUT |  /    0    \  |  *    +    9  |
+| in   it   is  | CPY  PST  CUT |  /    0    \  |  *    +    9  |
 |   ing ion     |               |               |               |
-|  :    y       | UDO  RDO      |  {    }       |  [    ]    %  |
+|  :    y    ^  | UDO  RDO      |  {    }       |  [    ]       |
 |---------------|---------------|---------------|---------------|
 |               |       •       |       •       |       •       |
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en    g   er  | is   il       |      DEL  es  | of   ou    ?  |
+| en    g   er  |      il       |      DEL  es  | of   ou    ?  |
 |   and  the    |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
 |  -    p       | ac   ch       | as   ed       |  q   om       |
 '---------------|---------------|---------------|---------------|
@@ -31,9 +31,9 @@ v=r+h   '=o+r+h "=e+r+h
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
-| on   ot   or  |  =    &    ~  | HOM  PUP  END |  !  <to >  ;  |
+| on   ot   or  |  =    &    ~  | HOM  PUP  END |  !   to    ;  |
 |   z           |               |               |   F10  F11 F12|
-|  x    b       |  @    |    ^  | INS  PDN  CPS |  #    $       |
+|  x    b    %  |  @    |       | INS  PDN  CPS |  #    $       |
 '---------------'---------------'---------------'---------------'
 
 Explanation of diagrams:
