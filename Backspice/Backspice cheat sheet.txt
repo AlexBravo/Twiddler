@@ -1,6 +1,10 @@
 Backspice layout
-al=a+l  ar=a+r  at=a+t  et=e+t+a <to >=t+o+SPACE
-v=r+h   '=o+r+h "=e+r+h 
+
+These chords are not in the table to make table shorter:
+al(a+l) and(a+n+e) ar(a+r) as(a+Space+e) at(a+t) ed(e+d+h) 
+es(e+Space+r) et(e+t+a) ing(i+n+a) ion(i+t+h) is(i+Space+n) 
+ou(o+u+t) st(Space+t+h) to(t+o+s) v(r+h)
+‘(o+r+h) “(e+r+h)
 
 .---------------.---------------.---------------.---------------.
 |BCKSP SPC   s  |  •            |       •       |            •  |
@@ -36,8 +40,8 @@ v=r+h   '=o+r+h "=e+r+h
 |  x    b    %  |  @    |       | INS  PDN  CPS |  #    $       |
 '---------------'---------------'---------------'---------------'
 
-Explanation of diagrams:
-Each rectangle represents the Twiddler with a 3x4 grid of buttons.
+Explanation of the table:
+Each cell represents Twiddler with a 3x4 grid of buttons, facing away from you.
 
 .---------------.
 |BCKSP  s  SPACE| <- 1st(top) button row
@@ -53,19 +57,7 @@ Each rectangle represents the Twiddler with a 3x4 grid of buttons.
    |    2nd button column (M - middle)
    1st button column (R - right)
 
-To type "d", press and release simultaneously two buttons: <s> and <e>
-To type ";", press and release simultaneously three buttons: "SPC", <o> and <r>
+To type “g”, press and release simultaneously two buttons: <e> and <t>
 
-There are 29 MCCs as of 5/10/2016
+There are 29 MCCs (Multi Character Chords) as of 6/27/2017
 
-Only 10 MCCs are not just comprised of corresponding letter buttons:
-and(a+n+e), as(a+Space+e), ed(e+d+h), es(e+Space+r), et(e+t+a),
-ing(i+n+a), ion(i+t+h), is(i+Space+n), ou(o+u+t), st(Space+t+h)
-
-Additional convenience chords:
-MMLM - most used email
-OLMR - select all text
-MLLM - make text bold
-RRMR - cross out text
-ROMR - full name without space
-S+ROMR - capitalized full name with space
