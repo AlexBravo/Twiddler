@@ -6,7 +6,7 @@ Backspice layout
 |  i    e    o  |  1    2    3  |  c    d    u  |  ,  ENTER  .  |
 |   in   g    or|        0    9 |               |               |
 |  n    t    r  |  4    5    6  |  f    l    w  |  ←    ↑    →  |
-|   an   th     |   <    >      |   z    st     |   (    )      |
+|   an   th   - |   <    >      |   z    st     |   (    )      |
 |  a    h   TAB |  7    8    _  |  k    m       | ESC   ↓    `  |
 |---------------|---------------|---------------|---------------|
 |               |  •            |  •            |  •            |
@@ -23,19 +23,19 @@ Backspice layout
 |               |               |               |               |
 | en    g   er  |  :   il       |  j   DEL  es  | of   ou    q  |
 |   and  the    |   F1   F2   F3|   F4   F5   F6|               |
-|  -    p    ~  | ac   ch       | as   ed       |      om       |
+| es    p    ~  | ac   ch       | as   ed       |      om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  |            •  |
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
 | on   ot   or  |  =    &       | HOM  PUP  END |  !    ?    ;  |
-|  CSf   NL     |               |               |   F7   F8   F9|
+|  CSf          |               |               |   F7   F8   F9|
 |  x    b    %  |  @    |       | INS  PDN  CPS |  #    $       |
 |---------------|---------------|---------------|---------------|
 |  7    k   ESC | nws  al       |            v+ |               |
 |               |               |               |               |
-| is    -    x  |      et   sat |       "    '  |               |
+| is   es    x  |      et   sat |       "    '  |               |
 |               |               |               |               |
 | an   at   ar  |       •       |            •  |            v  |
 |               |               |               |               |
