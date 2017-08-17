@@ -6,7 +6,7 @@ Backspice layout
 |  i    e    o  |  1    2    3  |  c    d    u  |  ,  ENTER  .  |
 |   in   g    or|        0    9 |               |               |
 |  n    t    r  |  4    5    6  |  f    l    w  |  ←    ↑    →  |
-|   an   th   - |   <    >      |   z    st     |   (    )      |
+|   an   th     |   <    >      |   z    st     |   (    )      |
 |  a    h   TAB |  7    8    _  |  k    m       | ESC   ↓    `  |
 |---------------|---------------|---------------|---------------|
 |               |  •            |  •            |  •            |
@@ -21,7 +21,7 @@ Backspice layout
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en    g   er  |  :   il       |  j   DEL  es  | of   ou    q  |
+| en    g   er  |  :   il       |  j   DEL   -  | of   ou    q  |
 |   and  the    |   F1   F2   F3|   F4   F5   F6|               |
 | es    p    ~  | ac   ch       | as   ed       |      om       |
 |---------------|---------------|---------------|---------------|
@@ -69,6 +69,7 @@ Additional convenience chords:
 MMLM - most used email
 OLMR - select all text(sat)
 MLLM - make text bold
+NA-MOOR - cross out text
 ROMR - full name without space(nws)
  S+ROMR - capitalized full name with space
 OLRR - Cmd+Shift+f(CSf)
