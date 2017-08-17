@@ -7,7 +7,7 @@ Backspice layout
 |   in   g    or|        0    9 |               |               |
 |  n    t    r  |  4    5    6  |  f    l    w  |  ←    ↑    →  |
 |   an   th     |   <    >      |   z    st     |   (    )      |
-|  a    h   TAB |  7    8    _  |  k    m       | ESC   ↓    `  |
+|  a    h   TAB |  7    8   ESC |  k    m       | as    ↓    `  |
 |---------------|---------------|---------------|---------------|
 |               |  •            |  •            |  •            |
 |               |               |               |               |
@@ -21,9 +21,9 @@ Backspice layout
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en    g   er  |  :   il       |  j   DEL   -  | of   ou    q  |
+| en    g   er  |  _   il       |  j   DEL   :  | of   ou    q  |
 |   and  the    |   F1   F2   F3|   F4   F5   F6|               |
-| es    p    ~  | ac   ch       | as   ed       |      om       |
+| es    p    ~  | ac   ch       |  -   ed       |      om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  |            •  |
 |               |               |               |               |
@@ -33,7 +33,7 @@ Backspice layout
 |  CSf          |               |               |   F7   F8   F9|
 |  x    b    %  |  @    |       | INS  PDN  CPS |  #    $       |
 |---------------|---------------|---------------|---------------|
-|  7    k   ESC | nws  al       |            v+ |               |
+|  7    k   as  | nws  al       |            v+ |               |
 |               |               |               |               |
 | is   es    x  |      et   sat |       "    '  |               |
 |               |               |               |               |
