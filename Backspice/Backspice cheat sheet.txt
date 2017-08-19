@@ -13,7 +13,7 @@ Backspice layout
 |               |               |               |               |
 |  •            |  •            |       •       |            •  |
 |               |               |               |               |
-| in   it       | CPY  PST  CUT |  /    0    \  |  *    +    9  |
+| in   it    +  | CPY  PST  CUT |  /    0    \  |  _         9  |
 |   ing ion     |   F1   F2   F3|   F10  F11 F12|               |
 | is    y    ^  | UDO  RDO      |  {    }       |  [    ]       |
 |---------------|---------------|---------------|---------------|
@@ -21,7 +21,7 @@ Backspice layout
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en    g   er  |  _   il       |  j   DEL   :  | of   ou    q  |
+| en    g   er  |  *   il       |  j   DEL   :  | of   ou    q  |
 |   and  the    |   F1   F2   F3|   F4   F5   F6|               |
 | es    p    ~  | ac   ch       |  -   ed       |      om       |
 |---------------|---------------|---------------|---------------|
@@ -29,11 +29,11 @@ Backspice layout
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
-| on   ot   or  |  =    &       | HOM  PUP  END |  !    ?    ;  |
-|  CSf          |               |               |   F7   F8   F9|
+| on   ot   or  |   Cf  &       | HOM  PUP  END |  !    ?    ;  |
+|  CSf        NL|               |               |   F7   F8   F9|
 |  x    b    %  |  @    |       | INS  PDN  CPS |  #    $       |
 |---------------|---------------|---------------|---------------|
-|  7    k   as  | nws  al       |            v+ |               |
+|  7    k   as  | nws  al       |       =    v+ |               |
 |               |               |               |               |
 | is   es    x  |      et   sat |       "    '  |               |
 |               |               |               |               |
@@ -72,4 +72,5 @@ MLLM - make text bold
 NA-MOOR - cross out text
 ROMR - full name without space(nws)
  S+ROMR - capitalized full name with space
+LRRO - Cmd+f
 OLRR - Cmd+Shift+f(CSf)
