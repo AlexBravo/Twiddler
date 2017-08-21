@@ -29,11 +29,11 @@ Backspice layout
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
-| on   ot   or  |   Cf  &       | HOM  PUP  END |  !    ?    ;  |
-|  CSf        NL|               |               |   F7   F8   F9|
+| on   ot   or  |FIND   &       | HOM  PUP  END |  !    ?    ;  |
+|  ALL        NL|               |               |   F7   F8   F9|
 |  x    b    %  |  @    |       | INS  PDN  CPS |  #    $       |
 |---------------|---------------|---------------|---------------|
-|  7    k   as  | nws  al       |       =    v+ |               |
+|  7    k   as  | NNS  al       |       =    v+ |               |
 |               |               |               |               |
 | is   es    x  |      et   sat |       "    '  |               |
 |               |               |               |               |
@@ -67,10 +67,8 @@ There are 29 MCCs (Multi Character Chords) as of 6/27/2017
 
 Additional convenience chords:
 MMLM - most used email
-OLMR - select all text(sat)
+OLRR - select all text(ALL)
 MLLM - make text bold
 NA-MOOR - cross out text
-ROMR - full name without space(nws)
+ROMR - full name with no space(NNS)
  S+ROMR - capitalized full name with space
-LRRO - Cmd+f
-OLRR - Cmd+Shift+f(CSf)
