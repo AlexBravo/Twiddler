@@ -3,7 +3,7 @@ Backspice layout
 .---------------.---------------.---------------.---------------.
 |BCKSP SPC   s  |  •            |       •       |            •  |
 |               |               |               |               |
-|  i    e    o  |  1    2    3  |  c    d    u  |  ,  ENTER  .  |
+|  i    e    o  |  1    2    3  |  c    d    u  | is   es    .  |
 |   in   g    or|        0    9 |               |               |
 |  n    t    r  |  4    5    6  |  f    l    w  |  ←    ↑    →  |
 |   an   th     |   <    >      |   z    st     |   (    )      |
@@ -15,7 +15,7 @@ Backspice layout
 |               |               |               |               |
 | in   it    +  | CPY  PST  CUT |  /    0    \  |  _         9  |
 |   ing ion     |   F1   F2   F3|   F10  F11 F12|               |
-| is    y    ^  | UDO  RDO      |  {    }       |  [    ]       |
+|  ,    y    ^  | UDO  RDO      |  {    }       |  [    ]       |
 |---------------|---------------|---------------|---------------|
 |               |       •       |       •       |       •       |
 |               |               |               |               |
@@ -23,7 +23,7 @@ Backspice layout
 |               |               |               |               |
 | en    g   er  |  *   il       |  j   DEL   :  | of   ou    q  |
 |   and  the    |   F1   F2   F3|   F4   F5   F6|               |
-| es    p    ~  | ac   ch       |  -   ed       |      om       |
+|ENTER  p    ~  | ac   ch       |  -   ed       |      om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  |            •  |
 |               |               |               |               |
@@ -35,7 +35,7 @@ Backspice layout
 |---------------|---------------|---------------|---------------|
 |  7    k   as  | NNS  al       |       =    v+ |               |
 |               |               |               |               |
-| is   es    x  |      et   sat |       "    '  |               |
+|  ,  ENTER  x  |      et   sat |       "    '  |               |
 |               |               |               |               |
 | an   at   ar  |       •       |            •  |            v  |
 |               |               |               |               |
