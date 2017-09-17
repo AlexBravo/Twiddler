@@ -14,7 +14,7 @@ Backspice layout
 |  •            |  •            |       •       |            •  |
 |               |               |               |               |
 | in   it    +  | CPY  PST  CUT |  /    0    \  |            9  |
-|   ing ion     |   F1   F2   F3|   F10  F11 F12|               |
+|  ing  ion     |   F1   F2   F3|  F10  F11  F12|               |
 |  ,    y    ^  | UDO  RDO      |  {    }       |  [    ]       |
 |---------------|---------------|---------------|---------------|
 |               |       •       |       •       |       •       |
@@ -22,8 +22,8 @@ Backspice layout
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
 | en    g   er  |  *   il       |  j   DEL   :  | of   ou    q  |
-|   and  the    |   F1   F2   F3|   F4   F5   F6|               |
-|ENTER  p    ~  | ac   ch       |  -   ed       |      om       |
+|  and  the     |   F1   F2   F3|   F4   F5   F6|               |
+| et    p    ~  | ac   ch       |  -   ed       |      om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  |            •  |
 |               |               |               |               |
@@ -35,7 +35,7 @@ Backspice layout
 |---------------|---------------|---------------|---------------|
 |  7    k   as  | NNS  al       |       =    v+ |               |
 |               |               |               |               |
-|  ,  ENTER  x  |      et   sat |       "    '  |               |
+|  ,   et    x  |     ENTER sat |       "    '  |               |
 |               |               |               |               |
 | an   at   ar  |       •       |            •  |            v  |
 |               |               |               |               |
