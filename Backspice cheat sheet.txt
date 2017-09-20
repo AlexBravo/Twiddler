@@ -1,4 +1,4 @@
-Backspice layout
+﻿Backspice layout
 
 .---------------.---------------.---------------.---------------.
 |BCKSP SPC   s  |  •            |       •       |            •  |
@@ -6,7 +6,7 @@ Backspice layout
 |  i    e    o  |  1    2    3  |  c    d    u  | is   es    .  |
 |   in   g    or|        0    9 |               |               |
 |  n    t    r  |  4    5    6  |  f    l    w  |  ←    ↑    →  |
-|   an   th     |   <    >      |   z    st     |   (    )      |
+|   an   th     |   <    >      |   z   ENTR    |   (    )      |
 |  a    h   TAB |  7    8   ESC |  k    m    _  | as    ↓    `  |
 |---------------|---------------|---------------|---------------|
 |               |  •            |  •            |  •            |
@@ -23,30 +23,31 @@ Backspice layout
 |               |               |               |               |
 | en    g   er  |  *   il       |  j   DEL   :  | of   ou    q  |
 |  and  the     |   F1   F2   F3|   F4   F5   F6|               |
-| et    p    ~  | ac   ch       |  -   ed       |      om       |
+|  v    p    ~  | ac   ch       |  -   ed       |      om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  |            •  |
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
-| on   ot   or  |FIND   &       | HOM  PUP  END |  !    ?    ;  |
-|  ALL        NL|               |               |   F7   F8   F9|
-|  x    b    %  |  @    |       | INS  PDN  CPS |  #    $       |
+| on   ot   or  | FND   &       | HOM  st   END |  !   PUP   ;  |
+|  ALL   ?    NL|               |               |   F7   F8   F9|
+|  $    b    %  |  @    |       | INS       CPS |  #   PDN      |
 |---------------|---------------|---------------|---------------|
-|  7    k   as  | NNS  al       |       =    v+ |               |
+|  7    k   as  | NNS  al       |       =    v+ |  8    m    ↓  |
 |               |               |               |               |
-|  ,   et    x  |     ENTER sat |       "    '  |               |
+|  ,    v    $  |      et   sat |       "    '  |  y    p    b  |
 |               |               |               |               |
-| an   at   ar  |       •       |            •  |            v  |
+| an   at   ar  |       •       |            •  |       th   x  |
 |               |               |               |               |
 |  •            |  •            |       •       |       •       |
 '---------------'---------------'---------------'---------------'
 
 Explanation of the table:
-Each cell represents Twiddler with a 3x4 grid of buttons, facing away from you.
+Each cell represents Twiddler with a 3x4 grid of buttons.
+Twiddler is facing away from the user.
 
 .---------------.
-|BCKSP  s  SPACE| <- 1st(top) button row
+|BCKSP SPC   s  | <- 1st(top) button row
 |               |
 |  i    e    o  | <- 2nd button row
 |   in   g    or| <- press the closest buttons in both 2nd and 3d rows
@@ -61,9 +62,7 @@ Each cell represents Twiddler with a 3x4 grid of buttons, facing away from you.
 
 To type “g”, press and release simultaneously two buttons: <e> and <t>
 
-
 There are 29 MCCs (Multi Character Chords) as of 6/27/2017
-
 
 Additional convenience chords:
 MMLM - most used email
@@ -71,4 +70,4 @@ OLRR - select all text(ALL)
 MLLM - make text bold
 NA-MOOR - cross out text
 ROMR - full name with no space(NNS)
- S+ROMR - capitalized full name with space
+S+ROMR - capitalized full name with space
