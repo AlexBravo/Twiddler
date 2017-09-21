@@ -62,10 +62,11 @@ Diagram is drawn for Twiddler facing away from the user.
 
 To type "g", press and release simultaneously two buttons: <e> and <t>
 
-There are 29 MCCs (Multi Character Chords) as of 6/27/2017
+There are 28 MCCs (Multi Character Chords) as of 8/9/2017
 
 Additional convenience chords (using Left, Middle, Right, Omitted notation):
 MMLM - most used email
+LRRO - find(FND)
 OLRR - select all text(ALL)
 MLLM - make text bold
 NA-MOOR - cross out text
