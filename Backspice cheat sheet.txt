@@ -6,7 +6,7 @@
 |  i    e    o  |  1    2    3  |  c    d    u  | is   es    .  |
 |   in   g    or|        0    9 |               |               |
 |  n    t    r  |  4    5    6  |  f    l    w  |  ←    ↑    →  |
-|   an   th     |   <    >      |   z   ENTR    |   (    )      |
+|   an   th     |   <    >      |   ?   ENTR    |   (    )      |
 |  a    h   TAB |  7    8   ESC |  k    m    _  | as    ↓    `  |
 |---------------|---------------|---------------|---------------|
 |               |  •            |  •            |  •            |
@@ -30,7 +30,7 @@
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
 | on   ot   or  | FND   &       | HOM  st   END |  !   PUP   ;  |
-|  ALL   ?    NL|               |               |   F7   F8   F9|
+|  ALL   z    NL|               |               |   F7   F8   F9|
 |  $    b    %  |  @    |       | INS       CPS |  #   PDN      |
 |---------------|---------------|---------------|---------------|
 |  7    k   as  | NNS  al       |       =    v+ |  8    m    ↓  |
@@ -44,10 +44,10 @@
 
 Explanation of the table:
 Each cell represents Twiddler with a 3x4 grid of buttons.
-Twiddler is facing away from the user.
+Diagram is drawn for Twiddler facing away from the user.
 
 .---------------.
-|BCKSP SPC   s  | <- 1st(top) button row
+|BCKSP SPC   s  | <- 1st button row
 |               |
 |  i    e    o  | <- 2nd button row
 |   in   g    or| <- press the closest buttons in both 2nd and 3d rows
@@ -56,15 +56,15 @@ Twiddler is facing away from the user.
 |  a    h   TAB | <- 4th button row
 '---------------'
    |    |    |
-   |    |    3d button column (L - left)
-   |    2nd button column (M - middle)
-   1st button column (R - right)
+   |    |    3d button column (historically designated as L = left)
+   |    2nd button column (M = middle)
+   1st button column (historically designated as R = right)
 
-To type “g”, press and release simultaneously two buttons: <e> and <t>
+To type "g", press and release simultaneously two buttons: <e> and <t>
 
 There are 29 MCCs (Multi Character Chords) as of 6/27/2017
 
-Additional convenience chords:
+Additional convenience chords (using Left, Middle, Right, Omitted notation):
 MMLM - most used email
 OLRR - select all text(ALL)
 MLLM - make text bold
