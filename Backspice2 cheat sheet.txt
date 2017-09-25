@@ -1,43 +1,43 @@
-﻿Backspice layout
+Backspice layout
 
 .---------------.---------------.---------------.---------------.
 |BCKSP SPC   s  |  •            |       •       |            •  |
 |               |               |               |               |
-|  i    e    o  |  1    2    3  |  c    d    u  | is   es    .  |
-|   in   g    or|        0    9 |               |               |
-|  n    t    r  |  4    5    6  |  f    l    w  |  ←    ↑    →  |
-|   an   th     |   <    >      |   ?   ENTR    |   (    )      |
-|  a    h   TAB |  7    8   ESC |  k    m    _  | as    ↓    `  |
+|  i    e    o  |  5    0    8  |  c    ←    →  | is   es    .  |
+|   in   ↑    or|        3      |             ou|   <    >    ; |
+|  n    t    r  |  6    1    9  |  f    l    u  |      st       |
+|   an   th     |        4      |  and  ENTR    |   (    )      |
+|  a    h   TAB |  7    2   ESC |  d    m    _  | as    w    `  |
 |---------------|---------------|---------------|---------------|
 |               |  •            |  •            |  •            |
 |               |               |               |               |
 |  •            |  •            |       •       |            •  |
 |               |               |               |               |
 | in   it    +  | CPY  PST  CUT |  /    0    \  |            9  |
-|  ing  ion     |   F1   F2   F3|  F10  F11  F12|               |
-|  ,    y    ^  | UDO  RDO      |  {    }       |  [    ]       |
+|  ing   ?      |   F1   F2   F3|  F10  F11  F12|               |
+|  g    p    ^  | UDO  RDO      |       "       |  [    ]       |
 |---------------|---------------|---------------|---------------|
 |               |       •       |       •       |       •       |
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en    g   er  |  *   il       |  j   DEL   :  | of   ou    q  |
-|  and  the     |   F1   F2   F3|   F4   F5   F6|               |
-|  v    p    ~  | ac   ch       |  -   ed       |      om       |
+| en    ↑   er  |  *   il       |  j   DEL   q  | of    :   ou  |
+|       the     |   F1   F2   F3|   F4   F5   F6|               |
+|  v    ↓    ~  | ac   ch       | ed    -       |      om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  |            •  |
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
-| on   ot   or  | FND   &       | HOM  st   END |  !   PUP   ;  |
+| on   ot   or  | FND   &       | HOM   y   END |  !   PUP   ;  |
 |  ALL   z    NL|               |               |   F7   F8   F9|
-|  $    b    %  |  @    |       | INS       CPS |  #   PDN      |
+|  $    b    %  |  @    |       | INS   k   CPS |  #   PDN      |
 |---------------|---------------|---------------|---------------|
-|  7    k   as  | NNS  al       |       =    v+ |  8    m    ↓  |
-|               |               |               |               |
-|  ,    v    $  |      et   sat |       "    '  |  y    p    b  |
-|               |               |               |               |
-| an   at   ar  |       •       |            •  |       th   x  |
+|  7    k   as  | NNS  al       |       =    v+ |  8    m    w  |
+|  UDO   ed   # |               |               |  RDO   -   PDN|
+|  ,    v    $  |      et   sat |            '  |  y    ↓    b  |
+|               |               |               |       the   ' |
+| an   at   ar  |       •       |            •  |      th    x  |
 |               |               |               |               |
 |  •            |  •            |       •       |       •       |
 '---------------'---------------'---------------'---------------'
@@ -50,7 +50,7 @@ Diagram is drawn for Twiddler facing away from the user.
 |BCKSP SPC   s  | <- 1st button row
 |               |
 |  i    e    o  | <- 2nd button row
-|   in   g    or| <- press the closest buttons in both 2nd and 3d rows
+|   in   ↑    or| <- press the closest buttons in both 2nd and 3d rows
 |  n    t    r  | <- 3d button row
 |   an   th     | <- press the closest buttons in both 3d and 4th rows
 |  a    h   TAB | <- 4th button row
