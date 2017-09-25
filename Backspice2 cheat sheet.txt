@@ -60,9 +60,9 @@ Diagram is drawn for Twiddler facing away from the user.
    |    2nd button column (M = middle)
    1st button column (historically designated as R = right)
 
-To type "g", press and release simultaneously two buttons: <e> and <t>
+To type "↑", press and release simultaneously two buttons: <e> and <t>
 
-There are 28 MCCs (Multi Character Chords) as of 8/9/2017
+There are 26 MCCs (Multi Character Chords) as of 9/24/2017
 
 Additional convenience chords (using Left, Middle, Right, Omitted notation):
 MMLM - most used email
