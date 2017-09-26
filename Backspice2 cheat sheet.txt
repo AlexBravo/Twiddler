@@ -3,39 +3,39 @@ Backspice layout
 .---------------.---------------.---------------.---------------.
 |BCKSP SPC   s  |  •            |       •       |            •  |
 |               |               |               |               |
-|  i    e    o  |  5    0    8  |  c    ←    →  | is   es    .  |
-|   in   ↑    or|        3      |             ou|   <    >    ; |
-|  n    t    r  |  6    1    9  |  f    l    u  |      st       |
-|   an   th     |        4      |  and  ENTR    |   (    )      |
-|  a    h   TAB |  7    2   ESC |  d    m    _  | as    w    `  |
+|  i    e    o  |  3    ↑    6  |  c    ←    →  | is   es    .  |
+|   in   ↑    or|  CPY   0    9 |   *   DEL   ou|  FND  PUP   ; |
+|  n    t    r  |  4    ↓    7  |  f    l    u  |      st       |
+|   an   th     |   8    1      |  and  ENTR    |   (    )      |
+|  a    h   TAB |  5    2   ESC |  d    m    _  | as    w    `  |
 |---------------|---------------|---------------|---------------|
 |               |  •            |  •            |  •            |
 |               |               |               |               |
 |  •            |  •            |       •       |            •  |
 |               |               |               |               |
 | in   it    +  | CPY  PST  CUT |  /    0    \  |            9  |
-|  ing   ?      |   F1   F2   F3|  F10  F11  F12|               |
-|  g    p    ^  | UDO  RDO      |       "       |  [    ]       |
+|  ing   k      |   F1   F2   F3|  F10  F11  F12|               |
+|  g    y    ^  | UDO  RDO      |       "       |  [    ]       |
 |---------------|---------------|---------------|---------------|
 |               |       •       |       •       |       •       |
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en    ↑   er  |  *   il       |  j   DEL   q  | of    :   ou  |
-|       the     |   F1   F2   F3|   F4   F5   F6|               |
-|  v    ↓    ~  | ac   ch       | ed    -       |      om       |
+| en   et   er  |  *   il       |  j   DEL   q  | of    :   ou  |
+|   ,   the     |   F1   F2   F3|   F4   F5   F6|               |
+|  v    p    ~  | ac   ch       | ed    -       |      om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  |            •  |
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
-| on   ot   or  | FND   &       | HOM   y   END |  !   PUP   ;  |
+| on   ot   or  | FND   &       | HOM  PUP  END |  #    !    ;  |
 |  ALL   z    NL|               |               |   F7   F8   F9|
-|  $    b    %  |  @    |       | INS   k   CPS |  #   PDN      |
+|  $    b    %  |  @    |       | INS  PDN  CPS |  <    >       |
 |---------------|---------------|---------------|---------------|
 |  7    k   as  | NNS  al       |       =    v+ |  8    m    w  |
 |  UDO   ed   # |               |               |  RDO   -   PDN|
-|  ,    v    $  |      et   sat |            '  |  y    ↓    b  |
+|  g    v    $  |      et   sat |       ?    '  |  y    p    b  |
 |               |               |               |       the   ' |
 | an   at   ar  |       •       |            •  |      th    x  |
 |               |               |               |               |
