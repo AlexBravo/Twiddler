@@ -4,7 +4,7 @@ Backspice layout
 |BCKSP SPC   s  |  •            |       •       |            •  |
 |               |               |               |               |
 |  i    e    o  |  3    ↑    6  |  c    ←    →  | is   es    .  |
-|   in   ↑    or|  CPY   0    9 |   *   DEL   ou|  FND  PUP   ; |
+|   in   et   or|  CPY   0    9 |   *   DEL   ou|  FND  PUP   ; |
 |  n    t    r  |  4    ↓    7  |  f    l    u  |      st       |
 |   an   th     |   8    1      |  and  ENTR    |   (    )      |
 |  a    h   TAB |  5    2   ESC |  d    m    _  | as    w    `  |
@@ -13,7 +13,7 @@ Backspice layout
 |               |               |               |               |
 |  •            |  •            |       •       |            •  |
 |               |               |               |               |
-| in   it    +  | CPY  PST  CUT |  /    0    \  |            9  |
+| in   it    +  | CPY  PST  CUT |  &    0    \  |            9  |
 |  ing   k      |   F1   F2   F3|  F10  F11  F12|               |
 |  g    y    ^  | UDO  RDO      |       "       |  [    ]       |
 |---------------|---------------|---------------|---------------|
@@ -29,14 +29,14 @@ Backspice layout
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
-| on   ot   or  | FND   &       | HOM  PUP  END |  #    !    ;  |
+| on   ot   or  | FND           | HOM  PUP  END |  #    !    ;  |
 |  ALL   z    NL|               |               |   F7   F8   F9|
-|  $    b    %  |  @    |       | INS  PDN  CPS |  <    >       |
+|  $    b    %  |  @            | INS  PDN  CPS |  <    >       |
 |---------------|---------------|---------------|---------------|
 |  7    k   as  | NNS  al       |       =    v+ |  8    m    w  |
-|  UDO   ed   # |               |               |  RDO   -   PDN|
-|  g    v    $  |      et   sat |       ?    '  |  y    p    b  |
-|               |               |               |       the   ' |
+|  UDO   ed   < |               |               |  RDO   -    > |
+|  g    v    $  |  |    '    /  |            ?  |  y    p    b  |
+|        '      |               |               |       the   ? |
 | an   at   ar  |       •       |            •  |      th    x  |
 |               |               |               |               |
 |  •            |  •            |       •       |       •       |
@@ -50,7 +50,7 @@ Diagram is drawn for Twiddler facing away from the user.
 |BCKSP SPC   s  | <- 1st button row
 |               |
 |  i    e    o  | <- 2nd button row
-|   in   ↑    or| <- press the closest buttons in both 2nd and 3d rows
+|   in   et   or| <- press the closest buttons in both 2nd and 3d rows
 |  n    t    r  | <- 3d button row
 |   an   th     | <- press the closest buttons in both 3d and 4th rows
 |  a    h   TAB | <- 4th button row
