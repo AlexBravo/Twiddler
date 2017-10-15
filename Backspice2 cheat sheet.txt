@@ -15,7 +15,7 @@ Backspice layout
 |               |               |               |               |
 | in   it    +  | CPY  PST  CUT |  &    0    \  |            9  |
 |  ing   k      |   F1   F2   F3|  F10  F11  F12|               |
-|  g    y    ^  | UDO  RDO      |       "       |  [    ]       |
+|  g    y    ^  | UDO  RDO  FND |       "       |  [    ]       |
 |---------------|---------------|---------------|---------------|
 |               |       •       |       •       |       •       |
 |               |               |               |               |
@@ -29,11 +29,11 @@ Backspice layout
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
 |               |               |               |               |
-| on   ot   or  | FND           | HOM  PUP  END |  #    ?    ;  |
+| on   ot   or  |               | HOM  PUP  END |  #    ?    ;  |
 |  ALL   z    NL|               |               |   F7   F8   F9|
 |  $    b    %  |  @            | INS  PDN  CPS |  <    >       |
 |---------------|---------------|---------------|---------------|
-|  5    d   as  | NNS  al       |       =    v+ |  8    m    w  |
+|  5    d   as  | NAM  al       |       =    v+ |  8    m    w  |
 |  UDO   ed   < |               |               |  RDO   -    > |
 |  g    v    $  |  |    '    /  |            !  |  y    p    b  |
 |  ing   '      |               |               |       the   ! |
@@ -66,9 +66,7 @@ There are 26 MCCs (Multi Character Chords) as of 9/24/2017
 
 Additional convenience chords (using Left, Middle, Right, Omitted notation):
 MMLM - most used email
-LRRO - find(FND)
 OLRR - select all text(ALL)
 MLLM - make text bold
 NA-MOOR - cross out text
-ROMR - full name with no space(NNS)
-S+ROMR - capitalized full name with space
+ROMR - full name(NAM)
