@@ -4,7 +4,7 @@ Backspice layout
 |BCKSP SPC   s  |  •            |       •       |            •  |
 |               |               |               |               |
 |  i    e    o  |  3    ↑    6  |  c    ←    →  | is   es    .  |
-|   in   et   or|  CPY   0    9 |   *   DEL   ou|  FND  PUP   ; |
+|   in   et   or|  CPY   0    9 |   ,   DEL   ou|  FND  PUP   ; |
 |  n    t    r  |  4    ↓    7  |  f    l    u  |  {   st    }  |
 |   an   th     |   8    1      |  and  ENTR    |   (    )      |
 |  a    h   TAB |  5    2   ESC |  d    m    _  | as    w    `  |
@@ -21,8 +21,8 @@ Backspice layout
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en   et   er  |  *   il       |  j   DEL   q  | of    :   ou  |
-|   ,   the     |               |   F4   F5   F6|               |
+| en   et   er  |  ,   il       |  j   DEL   q  | of    :   ou  |
+|   *   the     |               |   F4   F5   F6|               |
 |  v    p    ~  | ac   ch       | ed    -       |      om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  |            •  |
