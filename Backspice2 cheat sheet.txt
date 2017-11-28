@@ -4,7 +4,7 @@ Backspice layout
 |BCKSP SPC   s  |  •            |       •       |            •  |
 |               |               |               |               |
 |  i    e    o  |  3    ↑    6  |  c    ←    →  | is   es    .  |
-|   in   et   or|  CPY   0    9 |   ,   DEL   ou|  FND  PUP   ; |
+|   in   et   or|  CPY   0    9 |   ,   DEL   ou|       PUP   ; |
 |  n    t    r  |  4    ↓    7  |  f    l    u  |  {   st    }  |
 |   an   th  FND|   8    1      |  and  ENTR    |   (    )      |
 |  a    h   TAB |  5    2   ESC |  d    m    _  | as    w    `  |
@@ -15,7 +15,7 @@ Backspice layout
 |               |               |               |               |
 | in   it    +  | CPY  PST  CUT |  &    0    \  |            9  |
 |  ing   k      |   F1   F2   F3|  F10  F11  F12|               |
-|  g    y    ^  | UDO  RDO      |       "       |  [    ]       |
+|  g    y    ^  | UDO  RDO      |  @    "       |  [    ]       |
 |---------------|---------------|---------------|---------------|
 |               |       •       |       •       |       •       |
 |               |               |               |               |
@@ -28,10 +28,10 @@ Backspice layout
 |               |            •  |            •  |            •  |
 |               |               |               |               |
 |            •  |  •            |       •       |            •  |
-|               |               |               |               |
-| on   ot   or  |               | HOM  PUP  END |  #    ?    ;  |
+|               |  too hard to  |               |               |
+| on   ot   or  |     press     | HOM  PUP  END |  #    ?    ;  |
 |  ALL   z    NL|               |               |   F7   F8   F9|
-|  /    b    %  |  @            | INS  PDN  CPS |  <    >       |
+|  /    b    %  |               | INS  PDN  CPS |  <    >       |
 |---------------|---------------|---------------|---------------|
 |  5    d   as  | NAM  al       |       =       |  8    m    w  |
 |  UDO   ed   < |               |               |  RDO   -    > |
@@ -64,9 +64,6 @@ To type "↑", press and release simultaneously two buttons: <e> and <t>
 
 There are 26 MCCs (Multi Character Chords) as of 9/24/2017
 
-Additional convenience chords (using Left, Middle, Right, Omitted notation):
+Additional convenience chords (using Left-Middle-Right-Omitted notation):
 MMLM - most used email
-OLRR - select all text(ALL)
 MLLM - make text bold
-NA-MOOR - cross out text
-ROMR - full name(NAM)
