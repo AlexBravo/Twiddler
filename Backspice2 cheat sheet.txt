@@ -5,9 +5,9 @@ Backspice layout
 |               |               |               |               |
 |  i    e    o  |  3    ↑    6  |  c    ←    →  | is   es    .  |
 |   in   et   or|  CPY   0    9 |   ,   DEL   ou|       PUP   ; |
-|  n    t    r  |  4    ↓    7  |  f    l    u  |  {   st    }  |
+|  n    t    r  |  4    ↓    7  |  d    l    u  |  {   st    }  |
 |   an   th  FND|   8    1      |  and  ENTR    |   (    )      |
-|  a    h   TAB |  5    2   ESC |  d    m    _  | as    w    `  |
+|  a    h   TAB |  5    2   ESC |  f    m    _  | as    w    `  |
 |---------------|---------------|---------------|---------------|
 |               |  •            |  •            |  •            |
 |               |               |               |               |
@@ -21,9 +21,9 @@ Backspice layout
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en   et   er  |  ,   il       |  j   DEL   q  | of    :   ou  |
+| en   et   er  |  ,   il       | ed   DEL   q  |       :   ou  |
 |   *   the     |               |   F4   F5   F6|        v+     |
-|  v    p    ~  | ac   ch       | ed    -       |      om       |
+|  v    p    ~  | ac   ch       |  j    -       | of   om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  | ESC   _    `  |
 |               |               |               |               |
@@ -33,8 +33,8 @@ Backspice layout
 |  ALL   z    NL|               |   F7   F8   F9|               |
 |  /    b    %  | INS  PDN  CPS |  <    >       |            •  |
 |---------------|---------------|---------------|---------------|
-|  5    d   as  | NAM  al       |       =       |  8    m    w  |
-|  UDO   ed   < |               |               |  RDO   -    > |
+|  5    f   as  | NAM  al       |       =       |  8    m    w  |
+|  UDO   j    < |               |               |  RDO   -    > |
 |  g    v    /  |  |    '    $  |            !  |  y    p    b  |
 |  ing   '      |               |               |       the   ! |
 | an   at   ar  |       •       |            •  |      th    x  |
