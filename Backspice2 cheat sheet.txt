@@ -62,8 +62,9 @@ Diagram is drawn for Twiddler facing away from the user.
 
 To type "et", press and release simultaneously two buttons: <e> and <t>
 
-Additional convenience chords (using Left-Middle-Right-Omitted notation):
+Additional chords (using Left-Middle-Right-Omitted notation):
 MMLM - most used email
 MLLM - make text bold
+OMLM - Print Screen
 
 There are 27 MCCs (Multi Character Chords) as of 2/1/2018
