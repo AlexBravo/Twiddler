@@ -17,9 +17,13 @@ Right now I only maintain Backspice layout for the left hand here, as I use only
 You will definitely need to create a mirror layout if you want to use Twiddler with your right hand.
 Feel free to submit a pull request if you create such a layout.
 
-![Backspice layout cheat sheet](./Backspice2%20cheat%20sheet.txt)
 -------------------
 
+![Backspice layout cheat sheet](./Backspice2.png)
+
+The full cheat sheet (as a text file) is available [here](./Backspice2%20cheat%20sheet.txt).
+
+-------------------
 
 The TabSpace layout description: http://rhodesmill.org/brandon/projects/tabspace-guide.pdf
 
