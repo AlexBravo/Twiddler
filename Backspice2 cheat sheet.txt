@@ -21,7 +21,7 @@ Backspice layout
 |               |               |               |               |
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
-| en   et   er  |  ,   il       | ed   DEL   q  |       :   ou  |
+| en   et   er  |  ,   il       | ed   DEL   q  |ion    :   ou  |
 |   *   the     |               |   F4   F5   F6|        v+     |
 |  v    p    ~  | ac   ch       |  j    -       | of   om       |
 |---------------|---------------|---------------|---------------|
