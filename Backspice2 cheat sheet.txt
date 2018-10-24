@@ -22,7 +22,7 @@ Backspice layout
 |       •       |  •            |       •       |            •  |
 |               |               |               |               |
 | en   et   er  |  ,   il       | ed   DEL   q  |ion    :   ou  |
-|   *   the     |               |   F4   F5   F6|        v+     |
+|   *   the     |               |   F4   F5   F6|               |
 |  v    p    ~  | ac   ch       |  j    -       | of   om       |
 |---------------|---------------|---------------|---------------|
 |               |            •  |            •  | ESC   _    `  |
@@ -63,8 +63,7 @@ Diagram is drawn for Twiddler facing away from the user.
 To type "et", press and release simultaneously two buttons: <e> and <t>
 
 Additional chords (using Left-Middle-Right-Omitted notation):
-MMLM - most used email
 MLLM - make text bold
-OMLM - Print Screen
+OMLM - Print Screen on Windows
 
 There are 27 MCCs (Multi Character Chords) as of 2/1/2018
