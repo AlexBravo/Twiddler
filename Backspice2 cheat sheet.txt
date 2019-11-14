@@ -1,4 +1,4 @@
-Backspice layout
+Backspice2 layout
 
 .---------------.---------------.---------------.---------------.
 |BCKSP SPC   s  |  •            |       •       |            •  |
