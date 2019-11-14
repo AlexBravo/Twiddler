@@ -33,7 +33,7 @@ Backspice2 layout
 |  ALL   z    NL|               |   F7   F8   F9|               |
 |  /    b    %  | INS  PDN  CPS |  <    >       |            •  |
 |---------------|---------------|---------------|---------------|
-|  5    f   as  | NAM  al       |       =       |  8    m    w  |
+|  5    f   as  | NAM  al       |       =       |  2    m    w  |
 |  UDO   j    < |               |               |  RDO   -    > |
 |  g    v    /  |  |    '    $  |            !  |  y    p    b  |
 |  ing   '      |               |               |       the   ! |
